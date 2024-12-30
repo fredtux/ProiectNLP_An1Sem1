@@ -1,0 +1,6 @@
+venv
+log/*
+results/*
+!results/*.json
+!results/models/*
+!*/README.md
