@@ -1,0 +1,2312 @@
+[
+    {
+        "id": "YJ95VF1770",
+        "context": "Aplicatii & notificari (disponibil cand telefonul este in apropiere);\nStocare si redare muzica;Ecran always-on (necesita o incarcare mai frecventa a bateriei);Autonomie baterie +5 zile (autonomnia bateriei variaza in functie de folosire si alti factori);Plata cu ceasul Fitbit Pay.",
+        "question": "Ce tip de ecran conduce la o \u00eenc\u0103rcare mai rar\u0103 a dispozitivului?",
+        "answers": {
+            "text": [
+                "Ecran always-o",
+                "Ecran always-on"
+            ],
+            "answer_start": [
+                "96",
+                95
+            ]
+        }
+    },
+    {
+        "id": "YL83VU1211",
+        "context": "Utilizati senzorul Pulse Ox pentru a verifica saturatia de oxigen din sange in orice moment din zi, sau pentru o parte din noapte, in timpul somnului, pentru a arata cat de bine absoarbe corpul dvs. oxigen.\n",
+        "question": "Ce senzor este utilizat pentru observarea temperaturii corpului?",
+        "answers": {
+            "text": [
+                "senzorul Pulse Ox ",
+                "Pulse Ox"
+            ],
+            "answer_start": [
+                "11",
+                19
+            ]
+        }
+    },
+    {
+        "id": "DA68SX6997",
+        "context": "Poate fi scufundat pana la 50 de metri, de asemenea Amazfit GTR suporta diferite stiluri de inot.\tAmazfit GTR accepta 12 moduri de exercitiu mainstream. Acestea sunt alergari in aer liber, mers, ciclism in aer liber, ciclism in interior, banda de alergare, antrenor eliptic, urcare, trasee, inot in piscina, inot in apa deschisa, schi, exercitii fizice.",
+        "question": "C\u00e2te moduri de exerci\u021bii profesioniste ofer\u0103 dispozitivul?",
+        "answers": {
+            "text": [
+                "12 moduri de exercitiu mainstream",
+                "Amazfit GTR accepta 12 moduri de exercitiu mainstream"
+            ],
+            "answer_start": [
+                "119",
+                98
+            ]
+        }
+    },
+    {
+        "id": "TP61GG6784",
+        "context": "Combina frigori\ufb01ca independenta poate \ufb01 acum incorporata in mobila de bucatarie. Sistemul de deschidere a usii la 90\u00ba permite integrarea perfecta a combinei frigori\ufb01ce in bucataria ta, fara a iesi din linia mobilierului.Incastrarea  condensatorului in peretii laterali permite e\ufb01cientizarea spatiului in bucataria ta.\t",
+        "question": "Ce sistem de \u00eenchidere a u\u0219ilor are dispzoitivul?",
+        "answers": {
+            "text": [
+                "la 90\u00ba ",
+                "Sistemul de deschidere a usii la 90\u00ba"
+            ],
+            "answer_start": [
+                "112",
+                81
+            ]
+        }
+    },
+    {
+        "id": "ZJ97KL5342",
+        "context": "Frigiderele de sine statatoare de la Miele cu tehnologia Click2open au un mecanism de deschidere deosebit de usor si elegant. Actiunea de deschidere asistata permite mai usor contracararea efectului de vid din frigider, ceea ce permite deschiderea mai usoara a aparatului. Mecanismul Click2open dispare in peretele lateral al usii, oferind mai mult spatiu pentru noul design exterior.\t",
+        "question": "Ce mecanism face mai u\u0219oar\u0103 \u00eenchiderea u\u0219ilor?",
+        "answers": {
+            "text": [
+                "Click2open",
+                "Mecanismul Click2open"
+            ],
+            "answer_start": [
+                "58",
+                273
+            ]
+        }
+    },
+    {
+        "id": "AF88XY3440",
+        "context": "Sertarul Crispzone.Sertar mare pentru fructe si legume.Sertarul spatios CrispZone este proiectat pentru a pastra nutrientii si pentru a prelungi prospetimea alimentelor. Datorita temperaturii scazute produsele alimentare isi pastreaza calitatile pentru mai mult timp.",
+        "question": "Care este denumirea sertarului care permite sc\u0103derea temperaturii p\u00een\u0103 la 2 grade?",
+        "answers": {
+            "text": [
+                "Sertarul Crispzone",
+                "CrispZone"
+            ],
+            "answer_start": [
+                "1",
+                72
+            ]
+        }
+    },
+    {
+        "id": "PE47WS5286",
+        "context": "DoorCooling+\u2122.Racire cu pana la 32%* mai rapida si mai uniforma.Aerisirile din partea frontala a frigiderului mentin temperatura pentru a pastra alimentele proaspete.",
+        "question": "Care este rolul aerisirilor din partea lateral\u0103?",
+        "answers": {
+            "text": [
+                "mentin temperatura pentru a pastra alimentele proaspete",
+                "Aerisirile din partea frontala"
+            ],
+            "answer_start": [
+                "111",
+                64
+            ]
+        }
+    },
+    {
+        "id": "GZ22OI3120",
+        "context": "WiFi: Control de la distanta, prin WiFi, cu ajutorul aplicatiei specifice si telefonului mobil inteligent.-15\u00b0C Racire: Functionare in modul de racire pana la temperatura exterioara de -15oC.-15\u00b0C Incalzire: Functionare in modul de incalzire pana la temperatura exterioara de -15oC",
+        "question": "Care este temperatura maxim\u0103 exterioar\u0103 la care dispozitivul func\u021bioneaz\u0103 \u00een modul r\u0103cire?",
+        "answers": {
+            "text": [
+                "-15oC",
+                "-15\u00b0C"
+            ],
+            "answer_start": [
+                "186",
+                106
+            ]
+        }
+    },
+    {
+        "id": "ES30DU9549",
+        "context": "Functia PacePro, prima de acest fel, va ajuta sa va mentineti ritmul prin indicatii in functie de gradient in timp ce alergati pe un anumit traseu.Vizualizati in ce mod afecteaza diversele setari si senzorii ceasului durata de viata a bateriei ceasului, astfel incat sa puteti efectua din mers modificari destinate prelungirii duratei de viata a bateriei.\n\n",
+        "question": "Care este succesorul prmei func\u021bii de men\u021binere a ritmului \u00een func\u021bie de gradient?",
+        "answers": {
+            "text": [
+                "PacePro",
+                "Functia PacePro"
+            ],
+            "answer_start": [
+                "9",
+                0
+            ]
+        }
+    },
+    {
+        "id": "HL57XJ9615",
+        "context": "Aplicatia de fitness din ceas va permite sa urmariti in orice moment progresul dvs. catre obiectivele dvs. Aplicatia de fitness este accesibila de pe ecranul de pornire al ceasului dvs. si ofera o gazda o activitate urmarita. Alergarea, mersul cu bicicleta, mersul pe jos, inotul, inclusiv sporturile preferate, cum ar fi fotbalul, baschetul, voleiul si antrenamentul imens popular care cuprinde globul.",
+        "question": "De unde este accesibil\u0103 aplica\u021bia meteo?",
+        "answers": {
+            "text": [
+                "de pe ecranul de pornire al ceasului",
+                "Aplicatia de fitness este accesibila de pe ecranul de pornire al ceasului"
+            ],
+            "answer_start": [
+                "145",
+                107
+            ]
+        }
+    },
+    {
+        "id": "YI62YS2447",
+        "context": "Viteza TURBO: Setare rapida a vitezei maxime a ventilatorului unitatii interioare, in modul racire sau incalzire.8\u00b0C incalzire: Activare automata a modului de incalzire cand temperatura ambientala interioara atinge 8oC, pentru mentinerea acestei temperaturi",
+        "question": "Care este temperatura la care modul de \u00eenc\u0103lzire este oprit?",
+        "answers": {
+            "text": [
+                "8oC",
+                "8\u00b0C"
+            ],
+            "answer_start": [
+                "216",
+                113
+            ]
+        }
+    },
+    {
+        "id": "AU44CH8392",
+        "context": "Gratie tehnologiei Flex incorporate in tel si formei speciale, cu Wizzo poti bate albusuri foarte pufoase si aerate, chiar pornind de la 1 ou.Datorita miscarii planetare, accesoriile pentru patiserie si telul acopera toata suprafata bolului pentru rezultate de mixare omogene.\t",
+        "question": "Care este num\u0103rul maxim de albu\u0219uri care pot fi b\u0103tute?",
+        "answers": {
+            "text": [
+                "1",
+                "1 ou"
+            ],
+            "answer_start": [
+                "138",
+                137
+            ]
+        }
+    },
+    {
+        "id": "KL39NO8869",
+        "context": "Esti pasionat de moda, atunci stii ca trebuie sa ai neaparat in garderoba ta cel putin o tinuta de culoarea neagra. Programul Darkcare este special conceput pentru obiectele de imbracaminte de culoare inchisa, sintetice sau din bumbac. Acesta previne decolorarea si pastreaza intensitatea culorilor hainelor, ca noi.\n",
+        "question": "Care este programul recomandat pentru sp\u0103larea hainelor deschise la culoare?",
+        "answers": {
+            "text": [
+                "Darkcare",
+                "Programul Darkcare"
+            ],
+            "answer_start": [
+                "127",
+                116
+            ]
+        }
+    },
+    {
+        "id": "WI21CF6817",
+        "context": "In functie de gradul de murdarire si tipul tesaturii cele 9 programe scurte iti permit sa economisesti energie si timp. Masina de spalat Candy Rapido are cele mai multe programe rapide din toata gama de masini de spalat de pe piata.\n",
+        "question": "Care este ma\u0219ina cu cele mai pu\u021bine programe scurte?",
+        "answers": {
+            "text": [
+                "Masina de spalat Candy Rapido",
+                "Candy Rapido are cele mai multe programe rapide"
+            ],
+            "answer_start": [
+                "121",
+                137
+            ]
+        }
+    },
+    {
+        "id": "KO16IS1379",
+        "context": "Puteti selecta numarul de rotatii, care reprezinta viteza maxima de stoarcere, pana la 1400 de rotatii pe minut. Alegeti numarul de rotatii potrivit tipului de haine folosit si programului. preferat.",
+        "question": "Care este num\u0103rul minim de rota\u021bii pe minut?",
+        "answers": {
+            "text": [
+                "1400",
+                "1400 de rotatii pe minut"
+            ],
+            "answer_start": [
+                "88",
+                87
+            ]
+        }
+    },
+    {
+        "id": "PU89DA9092",
+        "context": "Optiunea Steam Hygiene.Sustinut de Allergy UK, aceasta optiune va mentine rufele proaspete si perfect curate. Aburul este injectat direct in tambur, la sfarsitul ciclului de spalare, eliminand pana la 99,9% din bacteriile cele mai comune, fiind perfect pentru asternuturi si prosoape.\n",
+        "question": "Care este op\u021biune care contribuie la eliminarea a 99,9% din bacteriile mai pu\u021bin comune?",
+        "answers": {
+            "text": [
+                "Steam Hygiene",
+                "Optiunea Steam Hygiene"
+            ],
+            "answer_start": [
+                "10",
+                0
+            ]
+        }
+    },
+    {
+        "id": "KZ74WA3097",
+        "context": "Silent Tech.Tehnologia Silent-Tech asigura o spalare mult mai silentioasa datorita motorului ProSmart Inverter si a peretilor laterali care sunt proiectati astfel incat zgomotul sa fie redus. Functionare silentioasa, pentru confort deplin!",
+        "question": "Care este tehnologia conceput\u0103 pentru reducerea volumului de vibra\u021bii?",
+        "answers": {
+            "text": [
+                "Silent Tech",
+                "Tehnologia Silent-Tech"
+            ],
+            "answer_start": [
+                "1",
+                12
+            ]
+        }
+    },
+    {
+        "id": "CK43KR5415",
+        "context": "Acum cu functia speciala Beko Add Garment puteti adauga orice articol de care ati uitat in primele minute ale ciclului de spalare selectat. Daca nivelul apei nu atinge rama inferioara a usii poti sa selectezi butonul pauza, sa adaugi articolele de imbracaminte uitate si sa apesi butonul add garment pentru continuarea ciclului de spalare.\n",
+        "question": "Ce buton trebuie ac\u021bionat daca se dore\u0219te ad\u0103ugarea unui articol atunci c\u00e2nd procesul de sp\u0103lare a \u00eenceput \u0219i nivelul de ap\u0103 a atins rama inferioar\u0103?",
+        "answers": {
+            "text": [
+                "butonul pauza",
+                "butonul add garment"
+            ],
+            "answer_start": [
+                "210",
+                280
+            ]
+        }
+    },
+    {
+        "id": "CT25EU3739",
+        "context": "Pentru a va asigura ca veti avea intotdeauna cea mai buna spalare posibila, este foarte important ca masina de spalat sa fie curata in interior. Programul Eco Dum Clean indeparteaza murdaria din tambur si 99,9% dintre bacteriile care cauzeaza mirosuri neplacute, fara sa utilizati detergenti abrazivi sau scumpi. In plus, te anunta cand e necesara curatarea.\n",
+        "question": "Care este programul care \u00eendep\u0103rteaz\u0103 condensul format la nivelul tamburului?",
+        "answers": {
+            "text": [
+                "Eco Dum Clean",
+                "Programul Eco Dum Clean"
+            ],
+            "answer_start": [
+                "156",
+                145
+            ]
+        }
+    },
+    {
+        "id": "ZC42RR1471",
+        "context": "Acum poti descarca mult mai simplu programele pe care ti le doresti, cu ajutorul programului de download, direct de pe interfata electrocasnicelor tale dotate cu HomeWhiz. Ai posibilitatea sa selectezi programul dorit din setul de 5 programe prestabilite si il poti modifica cu usurinta de cate ori ai nevoie. Cele 5 programe prestabilite sunt: Mix, Curtain, Lingerie, Soft Toys, Towel.",
+        "question": "Care sunt cele 5 programe scurte ale dispozitivului?",
+        "answers": {
+            "text": [
+                "Mix, Curtain, Lingerie, Soft Toys, Towel",
+                "Cele 5 programe prestabilite sunt: Mix, Curtain, Lingerie, Soft Toys, Towel"
+            ],
+            "answer_start": [
+                "346",
+                310
+            ]
+        }
+    },
+    {
+        "id": "ZC54UL5285",
+        "context": "Functia Kilo Detector te va ajuta sa optimizezi timpul de spalare. Introduci cantitatea de rufe in cuva si functia Kilo Detector iti va regla cantitatea de apa necesara si va stabili durata programului de spalare (in functie de cantitatea de rufe si tipul de tesatura).Kilo Detector este functia care te ajuta sa economisesti energie electrica, apa si timp alocat spalarii rufelor.",
+        "question": "Care este func\u021bia care permite reglarea nivelului de ap\u0103 \u00een func\u021bie de grosimea rufelor?",
+        "answers": {
+            "text": [
+                "Kilo Detector ",
+                "Functia Kilo Detector"
+            ],
+            "answer_start": [
+                "9",
+                0
+            ]
+        }
+    },
+    {
+        "id": "AI81WC3524",
+        "context": "Active Drum este un motor inverter modern care realizeaza 10 miscari diferite ale tamburului in timpul programului de indepartare a petelor. Ca urmare, tesaturile sunt mai relaxate, iar detergentul poate patrunde mai usor pentru a indeparta murdaria.\n",
+        "question": "C\u00e2te mi\u0219c\u0103ri realizeaz\u0103 tamburul \u00een timpul stoarcerii?",
+        "answers": {
+            "text": [
+                "10",
+                "10 miscari diferite"
+            ],
+            "answer_start": [
+                "59",
+                58
+            ]
+        }
+    },
+    {
+        "id": "QS82GQ4646",
+        "context": "Tipul de masina de spalat rufe standard este cea mai intalnita varianta, deoarece poate fi plasata oriunde, atat timp cat este conectata la un canal de scurgere si la o instalatie de apa. Masina de spalat cu incarcare frontala este un model clasic, datorita hubloului transparent prin care poti observa usor ce se intampla cu rufele tale.",
+        "question": "Care este tipul de \u00eenc\u0103rcare mai rar \u00eent\u00e2lnit?",
+        "answers": {
+            "text": [
+                "frontala",
+                "Masina de spalat cu incarcare frontala"
+            ],
+            "answer_start": [
+                "219",
+                188
+            ]
+        }
+    },
+    {
+        "id": "OJ88OB1880",
+        "context": "Avand culori exceptionale si o tasta Enter care blocheaza culoarea, ASUS VivoBook 14 adauga fler si dinamism activitatilor zilnice. Cu procesorul sau Intel\u00ae Core\u2122 si cel mai recent GPU NVIDIA GeForce, VivoBook 14 ofera puterea necesara pentru a finaliza lucrurile.\n",
+        "question": "Care este cea mai veche plac\u0103 dezvoltat\u0103 de c\u0103tre NVIDIA?",
+        "answers": {
+            "text": [
+                "cel mai recent GPU NVIDIA GeForce",
+                "NVIDIA GeForce"
+            ],
+            "answer_start": [
+                "167",
+                185
+            ]
+        }
+    },
+    {
+        "id": "HE76PC3885",
+        "context": "Firmware-ul integrat al desktopului V530, Trusted Platform Module (TPM), cripteaza datele si parolele. Iar cu Smart USB Protection va protejati in continuare datele - configurati pur si simplu porturile USB pentru a raspunde numai la dispozitive specifice, prevenind copierea neautorizata a fisierelor.",
+        "question": "Ce sistem este folosit pentru descriptarea parolelor?",
+        "answers": {
+            "text": [
+                "Trusted Platform Module ",
+                "Trusted Platform Module (TPM)"
+            ],
+            "answer_start": [
+                "43",
+                42
+            ]
+        }
+    },
+    {
+        "id": "CM59BU4674",
+        "context": "Forma conductelor de caldura din cupru pur maximizeaza suprafata directa de contact cu placa grafica, imbunatatind transferul de caldura. Conductoarele de caldura acopera si VRAM-ul prin intermediul contactului cu o placa metalica, pentru a asigura racirea corespunzatoare.\t",
+        "question": "Ce minimizeaz\u0103 suprafa\u021ba direct\u0103 de contact?",
+        "answers": {
+            "text": [
+                "Forma conductelor de caldura din cupru pur",
+                "Conductoarele de caldura"
+            ],
+            "answer_start": [
+                "1",
+                138
+            ]
+        }
+    },
+    {
+        "id": "OQ56UY1255",
+        "context": "Lasati-va invaluit de sunet si pasiti in mijlocul scenei. Cu Dolby Atmos, sunetul este emis de sus si din lateral, deci puteti auzi obiectele care se misca deasupra capului cu mai mult realism, pentru o experienta cu adevarat multidimensionala.\t",
+        "question": "Care este tehnologia care ajut\u0103 la emiterea sunetului de jos?",
+        "answers": {
+            "text": [
+                "Cu Dolby Atmos, sunetul este emis de sus si din lateral",
+                "Dolby Atmos"
+            ],
+            "answer_start": [
+                "59",
+                61
+            ]
+        }
+    },
+    {
+        "id": "NH11ZZ9469",
+        "context": "Tehnologia Quantum Dot ofera cea mai buna imagine creata de noi vreodata. Cu un volum de culoare 100%, Quantum Dot preia lumina si o transforma intr-o culoare uluitoare care ramane ca in realitate, la orice nivel de luminozitate.\n",
+        "question": "Care este volumul de culoare a celei mai slabe imagini create?",
+        "answers": {
+            "text": [
+                "1",
+                "100%"
+            ],
+            "answer_start": [
+                "98",
+                97
+            ]
+        }
+    },
+    {
+        "id": "UJ91RA1968",
+        "context": "Experienta vizuala imersiva - Afisajul FHD de 10.3\" al Lenovo Tab M10 Pro capteaza totul, de la intensitatea unei scene de actiune pana la detaliile din fotografiile de familie.     ",
+        "question": "Ce tip de afi\u0219aj reduce capacitatea de captare?",
+        "answers": {
+            "text": [
+                "FHD",
+                "Afisajul FHD"
+            ],
+            "answer_start": [
+                "40",
+                30
+            ]
+        }
+    },
+    {
+        "id": "HS90PM6854",
+        "context": "Eye Saver Mode reduce emisiile de lumina albastra care produc deteriorarea retinei. Experimentati mai putine tensiuni oculare in timpul orelor lungi de lucru pentru o productivitate sustinuta. Tehnologia Flicker Free elimina palpairile iritante ale ecranului pentru o vizionare mai confortabila.\n",
+        "question": "Cum se nume\u0219te tehnologia care contribuie la reducerea emisiilor de lumin\u0103 verde?",
+        "answers": {
+            "text": [
+                "Eye Saver Mode",
+                "Tehnologia Flicker Free"
+            ],
+            "answer_start": [
+                "1",
+                193
+            ]
+        }
+    },
+    {
+        "id": "LJ12RB9563",
+        "context": "Liderul monitoarelor curbate. Samsung a condus piata monitoarelor curbate de cand a fost primul care a introdus pe lume afisajele inovatoare in 2015.",
+        "question": "Cine este cel mai slab produc\u0103tor de monitoare curbate?",
+        "answers": {
+            "text": [
+                "Samsung",
+                "Liderul monitoarelor curbate"
+            ],
+            "answer_start": [
+                "31",
+                0
+            ]
+        }
+    },
+    {
+        "id": "FI51HN2431",
+        "context": "Conexiuni versatile: monitoarele noastre din seria E se potrivesc cu optiuni de conectivitate convenabile, precum porturile VGA si DP. Spatiul dvs. de lucru va fi complet personalizat in functie de nevoile dvs.",
+        "question": "Cu ce tipuri de porturi nu este compatibil monitorul din seria E?",
+        "answers": {
+            "text": [
+                "porturile VGA si DP",
+                "porturile VGA"
+            ],
+            "answer_start": [
+                "115",
+                114
+            ]
+        }
+    },
+    {
+        "id": "UW28YF1960",
+        "context": "C27-35 permite conectarea plug and play, prin HDMI si VGA, la cu PC-uri, laptopuri si telefoane. Iesirea audio trimite un sunet de calitate catre casti sau difuzoare, pentru apeluri video, cursuri online si jocuri care prind viata. Unghiul optim de vizualizare este asigurat de suportul cu inclinare care asigura, in plus, gestionarea ordonata a cablurilor. Si, pentru o optiune de confort foarte utila, monitorul poate fi montat pe un suport de perete, gratie panoului VESA de 100 x 100 mm.",
+        "question": "Care este elementul intern care nu permite montarea acestui dispozitiv pe perete?",
+        "answers": {
+            "text": [
+                "panoului VESA de 100 x 100 mm",
+                "VESA"
+            ],
+            "answer_start": [
+                "462",
+                470
+            ]
+        }
+    },
+    {
+        "id": "LM21EY8868",
+        "context": "Minimizati intarzierea de intrare cu Dynamic Action Sync, astfel incat sa puteti capta fiecare moment in timp real in jocuri.\n",
+        "question": "Cum poate fi maximizat\u0103 \u00eent\u00e2rzierea de intrare?",
+        "answers": {
+            "text": [
+                "cu Dynamic Action Sync",
+                "Minimizati intarzierea de intrare"
+            ],
+            "answer_start": [
+                "35",
+                0
+            ]
+        }
+    },
+    {
+        "id": "TK60UF3914",
+        "context": "Pastreaza legatura cand telefonul iti este inaccesibil\nGalaxy Tab S6 Lite se sincronizeaza perfect cu smartphone-ul tau Galaxy, astfel incat sa nu pierzi niciodata un apel atunci cand il primesti. De asemenea, iti permite sa raspunzi la mesaje text de urgenta, astfel incat nu vei fi niciodata in afara ariei. Pur si simplu atinge pictograma din Quick Panel pentru o conexiune perfecta.",
+        "question": "Cu ce nu se sincronizeaz\u0103 Galaxy Tab S6?",
+        "answers": {
+            "text": [
+                "cu smartphone-ul tau Galaxy",
+                "Galaxy Tab S6 Lite se sincronizeaza perfect cu smartphone-ul tau Galaxy"
+            ],
+            "answer_start": [
+                "100",
+                55
+            ]
+        }
+    },
+    {
+        "id": "IC35N9786",
+        "context": "Telefon mobil Cubot, J5, 16GB, 3G, Blue\u00a0\u00a0Ecran de 5.5 inch cu ratia de 18:9 Ecranul ocupa aproximativ 83% din telefon, lucru ce face ca vizionarea de videoclipuri sau navigarea pe internet sa fie mai placuta. Telefonul este echipat cu ultima versiune de Android 9.0, pentru a-ti oferi un telefon care se misca mai precis si fara inatarziere.\u00a0\u00a0Operare cu o singura manaDatorita dimensiunii de 5.5\", ecranul curbat 2.5D si a marginilor rotunjite, telefonul este perfect pentru operarea cu o singura mana.",
+        "question": "Cat ocupa ecranul Telefonului mobil Cubot, J5?",
+        "answers": {
+            "text": [
+                "83% din telefon",
+                "Ecranul ocupa aproximativ 83% din telefon"
+            ],
+            "answer_start": [
+                "102",
+                76
+            ]
+        }
+    },
+    {
+        "id": "FD27G9561",
+        "context": "Telefon mobil Samsung Galaxy A50, Dual SIM, 128GB, 4G, Coral\u00a0Bucurati-va de o experienta extinsa de vizionare, datorita afisajului Infinity-U si afisajului AMOLED Super si o mai buna securitate cu senzorul de amprenta pe ecran. Camera Tripla va ofera o inregistrare video de ultima ora experienta. Camera sa ultra-larga capteaza scene asa cum vedeti cu ochii vostri, in timp ce camera de adancime va permite sa captati fotografii utilizand efecte bokeh in timp real. ",
+        "question": "Cine asigura o mai buna securitate?",
+        "answers": {
+            "text": [
+                "senzorul de amprenta pe ecran.",
+                "Samsung Galaxy A50"
+            ],
+            "answer_start": [
+                "197",
+                14
+            ]
+        }
+    },
+    {
+        "id": "VR77R9327",
+        "context": "Telefon mobil Huawei P Smart (2019), Dual SIM, 64GB, 4G, Sapphire Blue\u00a0\u00a0Spatiu de stocare mare, de 64 GB Mai mult spatiu pentru pastrarea continutului.\u00a0Afisaj Dewprop de 6.21\" Culori uimitoare si imagini foarte clare, o calitate a imaginii superioara din toate punctele de vedere.\u00a0Camera foto AI duala de 13 + 2 MP Prezinta detalii intense si ofera un efect bokeh natural.\u00a0\u00a0Culori multipleUn tribut dedicat culorilor bogate din natura, fiind disponibile trei culori vibrante - negru/albastru aurora/albastru safir.",
+        "question": "Ce Spatiu de stocare are Huawei P Smart (2019)?",
+        "answers": {
+            "text": [
+                "64 GB",
+                "Spatiu de stocare mare, de 64 GB"
+            ],
+            "answer_start": [
+                "99",
+                72
+            ]
+        }
+    },
+    {
+        "id": "MY73V8030",
+        "context": "Telefon mobil Vonino Xylo T, Dual SIM, 16 GB, 3G, Dark Blue.\u00a0Smartphone-ul Vonino Xylo T impresioneaza de la inceput prin specificatiile sale, sitemul de operare Android 8.1 GO si prin liniile fluide de design. Pentru a asigura o experienta placuta in utilizare si pentru a face fata cu succes stilului dinamic de viata Xylo T este echipat cu facilitati de conectare de date tip 3G, procesor Quad Core si 1GB memorie RAM tip LPDDR3.\u00a0",
+        "question": "Ce procesor are Vonino Xylo T?",
+        "answers": {
+            "text": [
+                "procesor Quad Core",
+                "Quad Core"
+            ],
+            "answer_start": [
+                "383",
+                392
+            ]
+        }
+    },
+    {
+        "id": "IJ14N8666",
+        "context": "Telefon mobil Ulefone Note 7P, 32GB, 4G, Green\u00a0\u00a0Display Waterdrop de 6.1\"Triple Camera.\u00a03 GB RAM + 32 GB ROM.4-Core 1.3 GHz.\u00a0Algoritm ArcSoftEfect AI.Deblocare Amprenta | Faciala.\u00a0Baterie de 3500 mAh. Dual SIMDual Standby\u00a0OTG - Incarcare Inversa.Android 9.0.\u00a0Display Waterdrop 6.1\". Telefonul Ulefone Note 7P adopta un ecran ultra-mare, un ecran elegant, waterdrop. Fiecare detaliu sau continut poate fi marit, deoarece ecranul este suficient de mare pentru dumneavoastra.\u00a0\u00a0",
+        "question": "Ce baterie are Ulefone Note 7P?",
+        "answers": {
+            "text": [
+                "de 3500 mAh",
+                "Baterie de 3500 mAh"
+            ],
+            "answer_start": [
+                "188",
+                180
+            ]
+        }
+    },
+    {
+        "id": "XA30I7630",
+        "context": "O experienta Office superioara. Iti oferim noul Lumia 550 cu cea mai noua versiune a aplicatiilor Office pe care le iubesti. Word, Excel si PowerPoint au fost optimizate pentru utilizare mobila. Functioneaza perfect pe telefon, iar instrumentele de editare complexe si noul client de e-mail Outlook simplifica incredibil de mult gestionarea e-mailurilor.\u00a0\u00a0Lucreaza de oriunde Cu Windows 10 pe telefonul tau Lumia 550, vei avea acces la aceleasi servicii si aplicatii Microsoft ca si pe laptop. ",
+        "question": "Cu ce Iti oferim noul Lumia 550?",
+        "answers": {
+            "text": [
+                "cu cea mai noua versiune a aplicatiilor Office",
+                "Iti oferim noul Lumia 550 cu cea mai noua versiune a aplicatiilor Office"
+            ],
+            "answer_start": [
+                "58",
+                32
+            ]
+        }
+    },
+    {
+        "id": "CW71Q1426",
+        "context": "O experienta Office superioara. Iti oferim noul Lumia 550 cu cea mai noua versiune a aplicatiilor Office pe care le iubesti. Word, Excel si PowerPoint au fost optimizate pentru utilizare mobila. Functioneaza perfect pe telefon, iar instrumentele de editare complexe si noul client de e-mail Outlook simplifica incredibil de mult gestionarea e-mailurilor.\u00a0\u00a0Lucreaza de oriunde Cu Windows 10 pe telefonul tau Lumia 550, vei avea acces la aceleasi servicii si aplicatii Microsoft ca si pe laptop. ",
+        "question": "Cu ce lucrezi de oriunde pe telefonul tau Lumia 550?",
+        "answers": {
+            "text": [
+                "Cu Windows 10",
+                "Windows 10"
+            ],
+            "answer_start": [
+                "376",
+                379
+            ]
+        }
+    },
+    {
+        "id": "SX73Z9562",
+        "context": "Telefon mobil CAT B26, Dual SIM, Black. Cat B26 este rezistent la caderi, praf, apa si este creat pentru a rezista in medii dure.\u00a0Cat B26 este robust, dur si testat in conditii extreme. Rezistent la apa pana la 1.2 m pana la 35 de minute. De asemenea, telefonul a fost testat si pentru caderi de la o inaltime de 1.8m pe beton. Modelul B26 este rezistent la praf si temperaturi extreme.\u00a0Baterie de 1500 mAhPana la 13 ore de convorbire si 18 zile de standby cu o singura incarcare. Cat B26 este construit cu o baterie mare pentru a va ajuta sa lucrati mai mult timp.",
+        "question": "De la ce inaltime a fost testat si pentru caderi?",
+        "answers": {
+            "text": [
+                "de 1.8m pe beton",
+                "1.8m pe beton"
+            ],
+            "answer_start": [
+                "310",
+                313
+            ]
+        }
+    },
+    {
+        "id": "SU92L2632",
+        "context": "Telefon mobil Xiaomi Redmi 9, Dual SIM, 32GB, 3GB RAM, 4G, Ocean Green. Doar ridica mana cand vrei sa faci un selfie si un timer v-a apararea pe ecran. Adauga un \"twist\" creatiilor tale.\u00a0Xiaomi Redmi 9 are un ecran full HD+ cu rezolutia 2340 x 1080, in plus ecranul este certificat pentru a opri lumina albastra daunatoare, care oboseste ochii.\u00a0Telefonul este puternic si stabil, fiind perfect pentru multi-tasking, gaming si pentru a te uita la ce filme doresti.\u00a0",
+        "question": "Ce rezolutie are Xiaomi Redmi 9?",
+        "answers": {
+            "text": [
+                "2340 x 1080",
+                "Xiaomi Redmi 9 are un ecran full HD+ cu rezolutia 2340 x 1080"
+            ],
+            "answer_start": [
+                "237",
+                187
+            ]
+        }
+    },
+    {
+        "id": "GA50A8481",
+        "context": "Telefon mobil Oppo Reno 3 Pro, 256GB, 12GB RAM, 5G, Moonlight Black. Era 5G a sosit si este chiar mai indrazneata decat se astepta.  Video-uri incredibil de fluide.\u00a0Reno3 Pro ofera un design dublu curbat, simplificandu-si aspectul si atingerea. Noul proces de micro-perforare de inalta precizie reduce semnificativ interferenta camerei si produce vizualuri uimitoare.\u00a0Noul nostru proces de culori elementare creeaza un efect vizual unic, in care se trece de la texturi metalice la sticla sub diferite lumini si umbre.",
+        "question": "Ce design ofera Reno3 Pro?",
+        "answers": {
+            "text": [
+                "ofera un design dublu curbat",
+                "Reno3 Pro ofera un design dublu curbat"
+            ],
+            "answer_start": [
+                "175",
+                165
+            ]
+        }
+    },
+    {
+        "id": "PZ47O7437",
+        "context": "Telefon mobil OnePlus 8 Pro, Dual SIM, 128GB, 8GB RAM, 5G, Onyx Black.\u00a0Modul \"Nightscape 3.0\" utilizeaza procesarea inteligenta cu mai multe cadre pentru a adauga luminozitate, claritate si detalii peisajelor urbane cu lumina scazuta.\u00a0Aplicati filtrul Photochrome pe camera filtrului color pentru a transforma scenele obisnuite in peisaje suprareale.\u00a0OnePlus 8 Pro este certificat IP68, ceea ce inseamna ca este protejat impotriva apei.\u00a0OxygenOS este inteligent, rapid si eficient, cu functii intuitive",
+        "question": "Ce utilizeaza Modul \"Nightscape 3.0\"?",
+        "answers": {
+            "text": [
+                "procesarea inteligenta cu mai multe cadre",
+                "Modul \"Nightscape 3.0\" utilizeaza procesarea inteligenta cu mai multe cadre pentru a adauga luminozitate, claritate si detalii peisajelor urbane cu lumina scazuta"
+            ],
+            "answer_start": [
+                "105",
+                71
+            ]
+        }
+    },
+    {
+        "id": "CD25U7447",
+        "context": "Telefon mobil Samsung Galaxy S20, Dual SIM, 128GB, 12GB RAM, 5G, Cloud Blue\u00a0Poti extrage chiar si cadre statice de 33 MP dintr-o inregistrare video 8K. Este un metoda complet noua de a surprinde imagini statice de fiecare data cand apesi pe butonul de inregistrare. Video 8K transforma fiecare cadru intr-o imagine statica clara, pe care o poti apropia pentru a obtine imagini unice.\u00a0SINGLE TAKEO metoda total noua de a capta un cadru si de a-l converti in diverse formate",
+        "question": "Ce transforma Video 8K?",
+        "answers": {
+            "text": [
+                "transforma fiecare cadru intr-o imagine statica clara",
+                "fiecare cadru intr-o imagine statica clara"
+            ],
+            "answer_start": [
+                "275",
+                286
+            ]
+        }
+    },
+    {
+        "id": "DQ32X2874",
+        "context": "Telefon mobil Nokia 5310 (2020), Dual SIM, Black/Red.\u00a0Asculta muzica toata ziua. Asculta-ti posturile de radio preferate la radioul FM incorporat. Nu ai nevoie de casti \u2013 trebuie doar sa pornesti radioul si asculti direct in difuzoarele frontale. Incepe petrecerea oriunde. Tine ritmul cu playerul MP3 incorporat si butoanele speciale pentru muzica. Incarca-ti melodiile preferate pe cardul de memorie de 32 GB si asculta-le oriunde \u2013 totul e mai placut pe fond muzical.",
+        "question": "Unde poti sa asculti posturile de radio preferate cu Nokia 5310 (2020)",
+        "answers": {
+            "text": [
+                "la radioul FM incorporat",
+                "la radioul FM"
+            ],
+            "answer_start": [
+                "121",
+                121
+            ]
+        }
+    },
+    {
+        "id": "BH75J5581",
+        "context": "Telefon mobil Samsung Galaxy Note 20, Dual SIM, 256GB, 8GB RAM, 4G, Mystic Green. Descopera telefonul puternic care schimba pentru totdeauna modul in care lucrezi si te joci.\u00a0O gama uimitoare de nuante memorabile, care redefinesc modul in care lucrezi si te jociDesign minimal, cu un corp metalic pus in valoare de detalii rafinate si culori transcendente, precum si o sticla durabila Corning\u00ae Gorilla\u00ae Victus, cea mai dura sticla dintr-un smartphone. Fiecare Galaxy Note20 este completat de un S Pen asortat la culoarea telefonului.\u00a0",
+        "question": "Ce fel de sticla are Samsung Galaxy Note 20",
+        "answers": {
+            "text": [
+                "o sticla durabila Corning\u00ae Gorilla\u00ae Victus",
+                "Corning\u00ae Gorilla\u00ae Victus"
+            ],
+            "answer_start": [
+                "367",
+                385
+            ]
+        }
+    },
+    {
+        "id": "XV15G7643",
+        "context": "Telefon mobil Huawei P40 Pro, Dual SIM, 256GB, 8GB RAM, 5G, Black. Reflectand puritatea naturii, HUAWEI P40 Pro vine in culorile Deep Sea Blue, Ice White, Black, Blush Gold and Silver Frost. Finisajul mat refractant accentueaza un sentiment eteric de profunzime care dezvaluie eleganta si pacea interioara in fiecare nuanta.\u00a0Functionand ca un sistem extrem de unitar, sistemul de camere Penta/Quad/Triple Ultra Vision Leica va ajuta permanent sa fotografiati pe timp de zi sau de noapte, indiferent daca subiectul este aproape sau la distanta.",
+        "question": "Ce accentueaza un sentiment eteric de profunzime",
+        "answers": {
+            "text": [
+                "Finisajul mat refractant",
+                "Finisajul mat"
+            ],
+            "answer_start": [
+                "191",
+                191
+            ]
+        }
+    },
+    {
+        "id": "RA53B1119",
+        "context": "Telefon mobil Apple iPhone XS, 64GB, Silver. Super Retina in doua dimensiuni - inclusiv cel mai mare ecran vazut vreodata la un iPhone, face ID si mai rapid. Cel mai inteligent si mai puternic cip intalnit la un smartphone. Si un sistem revolutionar de camere duale cu Controlul adancimii de camp. iPhone XS reprezinta tot ceea ce iubesti la iPhone. O noua culoare de finisaj aurie superba, realizata printr-un proces la nivel atomic. Video HD de 1080p de pana la 60 fps.",
+        "question": "Ce reprezinta iPhone XS ",
+        "answers": {
+            "text": [
+                "tot ceea ce iubesti la iPhone",
+                "iPhone XS reprezinta tot ceea ce iubesti la iPhone"
+            ],
+            "answer_start": [
+                "319",
+                298
+            ]
+        }
+    },
+    {
+        "id": "YW65Y8131",
+        "context": "Telefon mobil Samsung Galaxy Z Flip, Dual SIM, 256GB, 8GB RAM, 5G, Brown\u00a0\u00a0Telefonul care utilizeaza viteza viitorului\u00a0Iti prezentam puterea tehnologiei 5G ultrarapide. Galaxy Z Flip 5G este echipat cu un procesor imbunatatit, astfel incat telefonul sa poata raspunde necesitatilor impuse de viteza 5G. Descarca si bucura-te de filmele si emisiunile tale favorite folosind viteza ultrarapida.\u00a0\u00a0Iti prezentam Galaxy Z FlipTelefonul cu ecran complet, care se pliaza pentru a-ti incapea in buzunar, din sticla flexibila revolutionara, o camera autohtona si baterie duala care dureaza toata ziua.",
+        "question": "Cu ce este echipat Galaxy Z Flip 5G",
+        "answers": {
+            "text": [
+                "este echipat cu un procesor imbunatatit, astfel incat telefonul sa poata raspunde necesitatilor impuse de viteza 5G",
+                "Galaxy Z Flip 5G este echipat cu un procesor"
+            ],
+            "answer_start": [
+                "185",
+                168
+            ]
+        }
+    },
+    {
+        "id": "NA78V9465",
+        "context": "Telefon mobil Allview D2 Senior, Dual SIM, Black\u00a0Daca esti adeptul unui terminal clasic, extrem de util pentru actiuni de baza, D2 Senior este alegerea perfecta. Telefonul este adaptat nevoilor persoanelor care vor sa mentina legatura cu cei apropiati si care doresc sa dispuna de un instrument util in cazuri de urgenta.\u00a0Pentru apelare automata de urgenta, D2 Senior este prevazut cu un buton SOS, care, printr-o singura apasare, poate apela pana la 5 numere de telefon, setate in prealabil",
+        "question": "Ce fel de SIM are Allview D2 Senior",
+        "answers": {
+            "text": [
+                "Dual SIM",
+                "Dual"
+            ],
+            "answer_start": [
+                "33",
+                33
+            ]
+        }
+    },
+    {
+        "id": "FK10Z2730",
+        "context": "Nokia 216. Iti prezentam telefonul Nokia 216, cu conectivitate internet si acces neintrerupt la tot ceea ce iubesti.\u00a0Noul telefon Nokia 216 combina caracteristicile excelente de divertisment si navigarea online caracteristica vietii moderne cu o experienta de utilizare familiara, pe care o vei recunoaste instantaneu. Pregatit pentru internet. Telefonul Nokia 216 include browserul Opera Mini, permitandu-ti sa accesezi cele mai populare continuturi de pe internet.",
+        "question": "Ce browser include Nokia 216",
+        "answers": {
+            "text": [
+                "browserul Opera Mini",
+                "Opera Mini"
+            ],
+            "answer_start": [
+                "373",
+                383
+            ]
+        }
+    },
+    {
+        "id": "MT29O1381",
+        "context": "Telefon mobil Samsung Galaxy A10, Dual Sim, 32 GB, Card 32 GB, 4G, Black,\u00a0Display Infinity-V. Galaxy A10 asigura o performanta stabila si o receptivitate buna cu procesorul lassen-P+. Memoria interna de 32 GB este de ajuns pentru pozele, videoclipurile si fisisrele dumneavoastra preferate. Adaugand un card microSD va asigura o memorie interna de pana la 512 GB, asadar veti avea spatiu mai mult decat necesar pentru fisierele dumneavoastra.\u00a0",
+        "question": "Cat va fi memoria interna daca adugamun card microSD",
+        "answers": {
+            "text": [
+                "de pana la 512 GB",
+                "512 GB"
+            ],
+            "answer_start": [
+                "345",
+                356
+            ]
+        }
+    },
+    {
+        "id": "DO15C1665",
+        "context": "Telefon mobil Cubot, R15, 16GB, 3G, Green\u00a0\u00a0Ecran de 6.26\" Waterdrop. Forma unica a ecranului este inspirata de o picatura de apa. Ecranul are o ratie de 19:9 si acopera 90% din fata telefonului.\u00a0\u00a0Android-ul 9.0 analizeaza frecventa cu care aplicatiile ruleaza pentru a optimiza consumul de energie, facand telefonul sa ruleze mai rapid.\u00a0Procesor stabil de 14nmCubot R15 este echipat cu procesorul quad-core MT6580, 2 GB memorie RAM si 16 GB memorie interna, pentru a rula mai stabil.\u00a0",
+        "question": "Ce procesor are telefonul Cubot?",
+        "answers": {
+            "text": [
+                "quad-core MT6580",
+                "MT6580"
+            ],
+            "answer_start": [
+                "397",
+                407
+            ]
+        }
+    },
+    {
+        "id": "ZF52O3132",
+        "context": "Realme 6s este echipat cu camera primara de 48MP. Rezolutia maxima este 8000x6000, astfel incat sa nu ratati nici macar un singur detaliu din imagine.\u00a0Campul vizual este de 4 ori mai larg decat cel obisnuit. Indiferent daca doriti sa fotografiati peisaje magnifice, cladiri sau un grup de prieteni la petrecere, puteti pastra memoria cu o singura fotografie. Camera detine un senzor de lumina extrem de sensibil, un procesor de imagine avansat integrat si algoritmi optimizati, precum reducerea zgomotului cu mai multe cadre.",
+        "question": "Ce fel de algoritmi are camera telefonului?",
+        "answers": {
+            "text": [
+                " reducerea zgomotului cu mai multe cadre",
+                "reducerea zgomotului"
+            ],
+            "answer_start": [
+                "484",
+                485
+            ]
+        }
+    },
+    {
+        "id": "PU45V7672",
+        "context": "Allview Soul X5 Pro, Dual SIM, 32GB, 4G, Black\u00a0\u00a0Soul X5 Pro te proiecteaza intr-o lume in care poti sa fii exact asa cum iti doresti si te intelege.Datorita raportului vizual 19:9 si a ecranului mai inalt, afisajul vizual este incontestabil mai imbogatit, astfel, Soul X5 Pro ridica la superlativ experienta ta de vizualizare prin care vei depasi orice bariera. Mai mult, o lume plina de culori ti se va asterne in fata prin display-ul de 6.2 inch cu o rezolutie Full HD+.Privirea iti va fi captivata de design-ul desarvarsit cu curburi delicate.",
+        "question": "Unde te proiecteaza telefonul?",
+        "answers": {
+            "text": [
+                " intr-o lume in care poti sa fii exact asa cum iti doresti ",
+                "in care poti sa fii exact asa cum iti doresti"
+            ],
+            "answer_start": [
+                "74",
+                87
+            ]
+        }
+    },
+    {
+        "id": "HW27U8228",
+        "context": "Telefon mobil Allview Soul X7 Style, Dual SIM, 64GB, 4G, Turcoaz\u00a0\u00a0`\u00a0Design atragator, culoare uimitoare Liniile clasice, contururile rotunjite si culoarea moderna cu reflexii glossy verzi-albastrui, ii ofera un sentiment unic si ii surprind simturile prin senzatia placuta data de fiecare atingere.\u00a0Largeste-ti orizontul. Bucura-te de o perspectiva clara. Afisajul mare de 6,217\u201d cu Waterdrop te apropie de ceea ce conteaza cel mai mult si iti ofera imagini bine definite si culori naturale, indiferent de unghiul de vizualizare.",
+        "question": "Cine ofera un sentiment unic?",
+        "answers": {
+            "text": [
+                "Liniile clasice, contururile rotunjite si culoarea moderna cu reflexii glossy verzi-albastrui",
+                "Allview Soul X7 Style"
+            ],
+            "answer_start": [
+                "104",
+                14
+            ]
+        }
+    },
+    {
+        "id": "YG33E1169",
+        "context": "Telefon mobil Huawei P30 Lite, Dual SIM, 64GB, 4GB RAM, 4G, Black. Bucura-te de o mai mare flexibilitate, cu spatiu pentru continutul sau fisierele pe care le folosesti zi de zi, cum ar fi muzica, fotografii, filmulete si aplicatii.\u00a0\u00a0O Baterie Puternica. Nu lasa nicio baterie sa te tina din drum. Cu functia de Incarcare Rapida la 9V2A a HUAWEI, bateria5 puternica de 3.340 mAh se incarca mai rapid si rezista pentru mai mult timp \u2013 fara a interfera cu ritmul rapid al vietii tale. Uita-te la video-uri, joaca-te si navigheaza pe internet toata ziua",
+        "question": "De ce te bucuri Huawei P30 Lite",
+        "answers": {
+            "text": [
+                "de o mai mare flexibilitate, cu spatiu pentru continutul sau fisierele pe care le folosesti zi de zi",
+                "Bucura-te de o mai mare flexibilitate"
+            ],
+            "answer_start": [
+                "77",
+                67
+            ]
+        }
+    },
+    {
+        "id": "OV58D8537",
+        "context": "Telefon mobil Cubot, J5, 16GB, 3G, Black\u00a0\u00a0Ecran de 5.5 inch cu ratia de 18:9. Ecranul ocupa aproximativ 83% din telefon, lucru ce face ca vizionarea de videoclipuri sau navigarea pe internet sa fie mai placuta.\u00a0\u00a0Android 9.0Telefonul este echipat cu ultima versiune de Android 9.0, pentru a-ti oferi un telefon care se misca mai precis si fara inatarziere.\u00a0Datorita dimensiunii de 5.5\", ecranul curbat 2.5D si a marginilor rotunjite, telefonul este perfect pentru operarea cu o singura mana.",
+        "question": "Ce ecran are Cubot, J5",
+        "answers": {
+            "text": [
+                "de 5.5 inch cu ratia de 18:9",
+                "Ecran de 5.5 inch cu ratia de 18:9"
+            ],
+            "answer_start": [
+                "48",
+                42
+            ]
+        }
+    },
+    {
+        "id": "NG22X7767",
+        "context": "Telefon mobil Samsung Galaxy S10 LITE, Dual SIM, 128GB, 8GB RAM, 4G, White. Apropie-te la o distanta de pana la 4cm, pentru a descoperi cele mai fine detalii cu obiectivul macro si treci la obiectivul foto frontal, pentru a realiza selfie-uri bune de partajat, cu ajutorul camerei foto de 32MP.\u00a0\u00a0Pixeli vibranti in fiecare filmare, zi sau noapteIn lumnina soarelui sau a lunii, toate fotografiile realizate folosind camera principala de inalta rezolutie, de 48MP, a S10 Lite, prind viata printr-o claritate stralucitoare a fiecarui pixel. ",
+        "question": "Cati MP are camera principala de inalta rezolutie",
+        "answers": {
+            "text": [
+                "de 48MP",
+                "48MP"
+            ],
+            "answer_start": [
+                "455",
+                458
+            ]
+        }
+    },
+    {
+        "id": "LI33P3434",
+        "context": "Telefon mobil Huawei P Smart (2019), Dual SIM, 64GB, 4G, Midnight Black. Mai mult spatiu pentru pastrarea continutului.\u00a0Afisaj Dewprop de 6.21\". Culori uimitoare si imagini foarte clare, o calitate a imaginii superioara din toate punctele de vedere.\u00a0Camera foto AI duala de 13 + 2 MP. Prezinta detalii intense si ofera un efect bokeh natural.\u00a0\u00a0Culori multiple. Un tribut dedicat culorilor bogate din natura, fiind disponibile trei culori vibrante - negru/albastru aurora/albastru safir. ",
+        "question": "Ce afisaj are Huawei P Smart (2019)",
+        "answers": {
+            "text": [
+                "Afisaj Dewprop de 6.21\"",
+                "Dewprop de 6.21\""
+            ],
+            "answer_start": [
+                "120",
+                127
+            ]
+        }
+    },
+    {
+        "id": "MB99I1454",
+        "context": "Telefon mobil Samsung Galaxy Note 10 Plus, 256GB, 12GB RAM, 5G, Aura Glow. Descopera urmatorul nivel de performanta. Galaxy Note10+ ofera o noua experienta mobila: calculator, consola de jocuri, studio de film si pen inteligent, intr-un singur dispozitiv.\u00a0Otelul inoxidabil si sticla ultra-slefuita se imbina perfect intr-un design impresionant de subtire. Latime: 7.9 mm\u00a0Infinity-O Display cinematografic. Cu un obiectiv frontal mic, display-ul Dynamic AMOLED este excelent in toate conditiile.",
+        "question": "Ce memorie interna are Samsung Galaxy Note 10 Plus",
+        "answers": {
+            "text": [
+                "256GB",
+                "Samsung Galaxy Note 10 Plus, 256GB"
+            ],
+            "answer_start": [
+                "43",
+                14
+            ]
+        }
+    },
+    {
+        "id": "LE52L8735",
+        "context": "\u00cenghe\u021barea la temperaturi cuprinse \u00eentre -6 \u00b0C \u0219i -18 \u00b0C face ca alimentele s\u0103 fie p\u0103strate p\u00e2n\u0103 la 3 luni",
+        "question": "Care este temperatura optima de pastrare a alimentelor pentru cateva zile in frigider?",
+        "answers": {
+            "text": [
+                " \u00eentre -6 \u00b0C \u0219i -18 \u00b0C",
+                "-6 \u00b0C \u0219i -18 \u00b0C"
+            ],
+            "answer_start": [
+                "34",
+                41
+            ]
+        }
+    },
+    {
+        "id": "EH83V2197",
+        "context": "\u00cenghe\u021barea alimentelor la temperaturi \u00eentre -18 \u00b0C \u0219i -35 \u00b0C, poate duce la conservarea acestora p\u00e2n\u0103 la un an.",
+        "question": "Care este temperatura optima pentru pastrarea alimentelor congelate timp de 1 luna?",
+        "answers": {
+            "text": [
+                "\u00eentre -18 \u00b0C \u0219i -35",
+                "-18 \u00b0C \u0219i -35 \u00b0C"
+            ],
+            "answer_start": [
+                "38",
+                44
+            ]
+        }
+    },
+    {
+        "id": "JY22T3130",
+        "context": "Burlanul este un tub cu pere\u021bi sub\u021biri, confec\u021bionat din tinichea (foaie de metal), font\u0103, beton sau material plastic.[1]\nTot din burlane se confec\u021bioneaz\u0103 leg\u0103tura dintresobe\u0219ico\u0219urile de fumla care acestea se racordeaz\u0103. \u00cen mediul industrial din burlane se confec\u021bioneaz\u0103 conducte cu diferite utiliz\u0103ri.[",
+        "question": "Cum poate fi denumit un tub cu pereti subtiri ca parte omponenta a unei hote?",
+        "answers": {
+            "text": [
+                "Burlanul",
+                "Burlanul este un tub cu pere\u021bi sub\u021biri"
+            ],
+            "answer_start": [
+                "0",
+                0
+            ]
+        }
+    },
+    {
+        "id": "TR42M2759",
+        "context": "Gazul natural este un amestec puternic inflamabil, de regul\u0103 insipid \u0219i inodor (din care cauz\u0103 pentru odorizare se adaug\u0103 gazuluimercaptancu scopul de a u\u0219ura detectarea scurgerilor) cu o temperatur\u0103 de aprindere de circa 600\u00b0C. Este ungazmai u\u0219or ca aerul;",
+        "question": "Ce temperatura este necesara penru aprinderea gazului?",
+        "answers": {
+            "text": [
+                "circa 600\u00b0C",
+                "600\u00b0C"
+            ],
+            "answer_start": [
+                "216",
+                222
+            ]
+        }
+    },
+    {
+        "id": "JV62G4787",
+        "context": "Uscarea gazului reprezint\u0103 procesul de \u00eenl\u0103turare a vaporilor de ap\u0103, care face parte din metodele de preg\u0103tire a gazului \u00eenainte de utilizare. \u00cendep\u0103rtarea apei din gaz este important\u0103, deoarece prin uscarea gazului se \u00eenl\u0103tur\u0103 posibilitatea form\u0103rii cristalohidra\u021bilor. Ace\u0219tia sunt impurit\u0103\u021bi solide care blocheaz\u0103 conductele \u0219i d\u0103uneaz\u0103 arm\u0103turilor. Gradul de uscare al gazului se stabile\u0219te astfel \u00eenc\u00e2t cristalohidra\u021bii s\u0103 se formeze doar sub -8\u00b0C .",
+        "question": "Ce presupune mai exact procedeul de uscarea a gazului inainte de a fi utilizat?",
+        "answers": {
+            "text": [
+                "procesul de \u00eenl\u0103turare a vaporilor de ap\u0103",
+                "Uscarea gazului reprezint\u0103 procesul de \u00eenl\u0103turare a vaporilor de ap\u0103"
+            ],
+            "answer_start": [
+                "27",
+                0
+            ]
+        }
+    },
+    {
+        "id": "XT45D7720",
+        "context": "Inoxul nu este rezistent numai la umiditate \u0219i cei mai mul\u021bi acizi, ci se caracterizeaz\u0103 \u0219i prin duritate, rezisten\u021b\u0103 mare la c\u0103ldur\u0103 \u0219i frig \u0219i propriet\u0103\u021bile igienice. Pe suprafa\u021b\u0103 neted\u0103 \u0219i f\u0103r\u0103 pori murd\u0103ria \u0219i gr\u0103simile pot fi sp\u0103late foarte u\u0219or. Zg\u00e2rieturile \u0219i cr\u0103p\u0103turile pe capace \u00ee\u0219i pierd dup\u0103 scurt timp contururile dure \u0219i se adapteaz\u0103 suprafe\u021bei.",
+        "question": "pe ce suprafete din otel inoxidabil murdaria se curata foarte usor?",
+        "answers": {
+            "text": [
+                "neted\u0103 \u0219i f\u0103r\u0103 pori",
+                "suprafa\u021b\u0103 neted\u0103 \u0219i f\u0103r\u0103 pori"
+            ],
+            "answer_start": [
+                "182",
+                172
+            ]
+        }
+    },
+    {
+        "id": "TR19D3660",
+        "context": "Androideste cel mai popular sistem de operare mobil. Acest sistem de operare a fost sub licen\u021b\u0103Apache, iar din 21 octombrie 2008,Googlea deschis \u00eentregulcod surs\u0103fiind disponibil caOpen Source. iOS este bazat pe Unix, disponibil pe produse Apple: Iphone, iPad, iPod \u0219i Apple TV",
+        "question": "Care este cel mai popular sistem de operare mobil?",
+        "answers": {
+            "text": [
+                "Android",
+                "Androideste cel mai popular sistem de operare mobil"
+            ],
+            "answer_start": [
+                "0",
+                0
+            ]
+        }
+    },
+    {
+        "id": "FE40T4268",
+        "context": "Un manometru care m\u0103soar\u0103 presiuni sub presiunea atmosferic\u0103 se nume\u0219te de obicei manometru de vid. Presiunea atmosferic\u0103 \u00eentr-un punct descre\u0219te cu altitudinea. Exist\u0103 varia\u021bii ale presiunii atmosferice de la o zi la alta, deoarece atmosfera nu este static\u0103. Coloana de mercur din barometru va avea o \u00een\u0103l\u021bime de aproximativ 76cm de mercur la 0 grade Celsius, \u00een c\u00e2mp gravita\u021bional normal (standard), g=9,80665m/s\u00b2, se nume\u0219te \u201eo atmosfer\u0103\u201d (1 atm).",
+        "question": "Ce dimensiune are coloana de mercur din barometru la 0 grade Celsius?",
+        "answers": {
+            "text": [
+                "aproximativ 76cm",
+                "76cm"
+            ],
+            "answer_start": [
+                "314",
+                326
+            ]
+        }
+    },
+    {
+        "id": "EO32A4925",
+        "context": "C\u0103r\u021bile electronice sunt c\u0103r\u021bi virtuale. Multe din aparatelee-readerse pot folosi la afi\u0219area nu numai a c\u0103r\u021bilor electronice, dar \u0219i pentru gazete, ziare, reviste, chiar pagini web \u0219.a.m.d., \u00een general pentru toate materialele scrise.\u00cen ultimii ani \u0219i tehnologia acumulatorilor a progresat mult, astfel \u00eenc\u00e2t func\u021bionarea este asigurat\u0103 pentru ore \u00een \u0219ir cu o singur\u0103 \u00eenc\u0103rcare.",
+        "question": "Ce tip de carti sunt cartile electronice?",
+        "answers": {
+            "text": [
+                "c\u0103r\u021bi virtuale",
+                "C\u0103r\u021bile electronice"
+            ],
+            "answer_start": [
+                "25",
+                0
+            ]
+        }
+    },
+    {
+        "id": "JB93N8687",
+        "context": "Dispozitivele de \u00eenregistrare magneto-optice scriu \u0219i citesc datele optic. La scriere, mediul magnetic este \u00eenc\u0103lzit local de un laser, care induce o cre\u0219tere rapid\u0103 a c\u00e2mpului coercitiv. Apoi, un c\u00e2mp magnetic de amplitudine mic\u0103 poate fi folosit pentru a schimba magnetizarea. Procesul de citire se bazeaz\u0103 peefectul Kerr magneto-optic.",
+        "question": "Care este rolul dispozitivelor de inregistrare magneto-optice?",
+        "answers": {
+            "text": [
+                "scriu \u0219i citesc datele optic.",
+                "Dispozitivele de \u00eenregistrare magneto-optice scriu \u0219i citesc datele optic"
+            ],
+            "answer_start": [
+                "45",
+                0
+            ]
+        }
+    },
+    {
+        "id": "HN60X9115",
+        "context": "Cel mai folosit material conductor estecuprul, datorit\u0103rezistivit\u0103\u021biireduse \u0219i propriet\u0103\u021bilor mecanice. Un alt material folosit estealuminiul, care este mai ieftin, \u00eens\u0103 are propriet\u0103\u021bi mecanice mai proaste dec\u00e2t cuprul (supus unei presiuni de contact se deformeaz\u0103 \u00een timp) \u0219i are ~63% din conductivitatea electric\u0103 a cuprului.Cuprul are cea mai mic\u0103 rezistivitate electric\u0103 dup\u0103 argint",
+        "question": "care este cel mai utilizat material conductor?",
+        "answers": {
+            "text": [
+                "cuprul",
+                "Cuprul"
+            ],
+            "answer_start": [
+                "39",
+                328
+            ]
+        }
+    },
+    {
+        "id": "RZ37T1518",
+        "context": "Anionuleste unionmonoatomic(de exempluCl-,Br-,I-, etc) sau poliatomic (SO42-) ce poart\u0103 una sau mai multe sarcini electrice negative. Exist\u0103 mai multe tipuri de anioni, printre care cei mono, bi \u0219i polivalen\u021bi.Sub ac\u021biunea curentului electric, anionii se orienteaz\u0103 spre polul pozitiv (anod), de unde provine \u0219i denumirea lor.\n",
+        "question": "Ce tipuri de anioni pot exista?",
+        "answers": {
+            "text": [
+                "mono, bi \u0219i polivalen\u021bi.",
+                "Exist\u0103 mai multe tipuri de anioni, printre care cei mono, bi \u0219i polivalen\u021bi"
+            ],
+            "answer_start": [
+                "186",
+                134
+            ]
+        }
+    },
+    {
+        "id": "ZM28O2277",
+        "context": "Instrumentele de percu\u021bie pot fi activate cu m\u00e2na sau cu baghete (be\u021be).\nSpre deosebire de instrumentele cu coarde sau de suflat, pentru care oscila\u021bia (coardei sau a coloanei de aer, respectiv) este uni-dimensional\u0103, \u00een cazul instrumentelor de percu\u021bie vibra\u021bia este a unei suprafe\u021be (membrane) sau a unui volum (\u00een cazul instrumentelor idiofone). Din acest motiv, pentru instrumentele cu un ton definit, frecven\u021bele armonicelor produse pentru fiecare sunet nu sunt multipli ai frecven\u021bei fundamentale.",
+        "question": "Cum se activeaza instrumentele cu percutie?",
+        "answers": {
+            "text": [
+                "cu m\u00e2na sau cu baghete (be\u021be).",
+                "Instrumentele de percu\u021bie pot fi activate cu m\u00e2na sau cu baghete"
+            ],
+            "answer_start": [
+                "42",
+                0
+            ]
+        }
+    },
+    {
+        "id": "RO59F7312",
+        "context": "Unciocan rotopercutor, sau simplurotopercutor, este o ma\u0219in\u0103-unealt\u0103 cuburghiucare ac\u021bioneaz\u0103 \u0219i printr-o succesiune repetat\u0103 de lovituri.Ciocanul rotopercutor are trei moduri de lucru: ciocan perforator, g\u0103urire prin sfredelire \u0219i combina\u021bia dintre cele dou\u0103: ciocan perforator + sfredelire. Atunci c\u00e2nd rotopercutorul e folosit \u00een modul de ciocan perforator pur, el func\u021bioneaz\u0103 asemenea unui picham\u0103r.",
+        "question": "Ce moduri de lucru are ciocanul toropercutor?",
+        "answers": {
+            "text": [
+                "ciocan perforator, g\u0103urire prin sfredelire \u0219i combina\u021bia dintre cele dou\u0103: ciocan perforator + sfredelire.",
+                "Ciocanul rotopercutor are trei moduri de lucru: ciocan perforator, g\u0103urire prin sfredelire \u0219i combina\u021bia dintre cele dou\u0103"
+            ],
+            "answer_start": [
+                "186",
+                138
+            ]
+        }
+    },
+    {
+        "id": "HW34H1770",
+        "context": "Rigla de calcul este alc\u0103tuit\u0103 dintr-o rigl\u0103 fix\u0103 pe care se marcheaz\u0103 dou\u0103 sc\u0103ri logaritmice, dintr-o rigl\u0103 mobil\u0103 (riglet\u0103) care culiseaz\u0103 \u00eentr-un \u0219an\u021b al riglei fixe, av\u00e2nd \u0219i acesta dou\u0103 sc\u0103ri logaritmice \u0219i dintr-un cursor cu 1 - 3 fire reticulare care u\u0219ureaz\u0103 aprecierea frac\u021biunilor de diviziuni. Principiul de func\u021bionare se bazeaz\u0103 pe folosirea segmentelor propor\u021bionale cu logaritmii numerelor de la 1 la 10, sau cu logaritmii unor func\u021bii transcendente, care fiind marca\u021bi pe sc\u0103ri paralele, permit \u00eenlocuirea anumitor opera\u021bii prin adunare sau sc\u0103dere de segmente.",
+        "question": "Din ce este alcatuita o rigla de calcul?",
+        "answers": {
+            "text": [
+                "dintr-o rigl\u0103 fix\u0103 pe care se marcheaz\u0103 dou\u0103 sc\u0103ri logaritmice, dintr-o rigl\u0103 mobil\u0103 (riglet\u0103) care culiseaz\u0103 \u00eentr-un \u0219an\u021b al riglei fixe,",
+                "Rigla de calcul este alc\u0103tuit\u0103 dintr-o rigl\u0103 fix\u0103 pe care se marcheaz\u0103 dou\u0103 sc\u0103ri logaritmice"
+            ],
+            "answer_start": [
+                "31",
+                0
+            ]
+        }
+    },
+    {
+        "id": "AT23W6893",
+        "context": "Scara de duritate Mohspermite evaluareadurit\u0103\u021biirelative a unor materiale, cu prec\u0103dere anemetalelor. Ea se bazeaz\u0103 pe capacitatea unui material de a fi zg\u00e2riat sau de a zg\u00e2ria alt material. De exemplu, duritatea unei unghii umane este de 2,5. Aurul \u0219i argintul \u00een stare pur\u0103 au duritatea \u00eentre 2,5 \u0219i 3. Monedele de cupru au duritatea 3, lamele de cu\u021bit - 5,5, sticla 6-7 etc",
+        "question": "Ce duritate au aurul si argintul in stare pura?",
+        "answers": {
+            "text": [
+                "\u00eentre 2,5 \u0219i 3",
+                "Aurul \u0219i argintul \u00een stare pur\u0103 au duritatea \u00eentre 2,5 \u0219i 3"
+            ],
+            "answer_start": [
+                "289",
+                244
+            ]
+        }
+    },
+    {
+        "id": "UK99F5474",
+        "context": "Prelucrarea prin rectificare are loc \u00een mai multe treceri ale discului abraziv, iar la fiecare trecere, acesta deta\u0219eaz\u0103 un strat sub\u021bire de material (0,001...0,05 mm) pe care \u00eel transform\u0103 \u00een a\u0219chii microscopice (microa\u0219chii). Cu c\u00e2t granula\u021bia sculei abrazive este mai fin\u0103, cu at\u00e2t dimensiunile a\u0219chiilor \u0219i deci \u00een\u0103l\u021bimile rugozit\u0103\u021bii suprafe\u021bei sunt mai reduse, ob\u021bin\u00e2ndu-se suprafe\u021be cu parametrul derugozitateRa= 0,2...0,8 \u03bcm.",
+        "question": "Cum se desfasoare prelucrarea prin rectificare?",
+        "answers": {
+            "text": [
+                "Prelucrarea prin rectificare are loc \u00een mai multe treceri ale discului abraziv, iar la fiecare trecere, acesta deta\u0219eaz\u0103 un strat sub\u021bire de material (0,001...0,05 mm) pe care \u00eel transform\u0103 \u00een a\u0219chii microscopice (microa\u0219chii).",
+                "Prelucrarea prin rectificare are loc \u00een mai multe treceri ale discului abraziv, iar la fiecare trecere, acesta deta\u0219eaz\u0103 un strat sub\u021bire de material"
+            ],
+            "answer_start": [
+                "0",
+                0
+            ]
+        }
+    },
+    {
+        "id": "IT42L2128",
+        "context": "Comportarea corpurilor (sculelor) abrazive depinde direct de caracteristicile acestora \u0219i alegerea lor corect\u0103. Un corp abraziv este constituit dintr-o matrice de granule abrazive mari, presate \u0219i legate cu ajutorul unui liant, pentru a forma o scul\u0103 abraziv\u0103 cu diferite profiluri, sec\u021biuni transversale \u0219i dimensiuni. Elementul activ \u00een corpul abraziv este granula abraziv\u0103, liantul nu are o ac\u021biune direct\u0103 \u00een prelucrarea suprafe\u021belor, ci are numai rolul de legare a granulelor.",
+        "question": "Care este elementul activ dintrun corp abraziv?",
+        "answers": {
+            "text": [
+                "granula abraziv\u0103",
+                "Elementul activ \u00een corpul abraziv este granula"
+            ],
+            "answer_start": [
+                "359",
+                320
+            ]
+        }
+    },
+    {
+        "id": "ZY41D7630",
+        "context": "Procedeul SEI (Sudarea cu Electrod \u00cenvelit). Piesa ce urmeaz\u0103 s\u0103 fie sudat\u0103 este conectat\u0103 la polul mas\u0103 al sursei de tensiune. Prin apropierea electrodului de piesa legat\u0103 la mas\u0103, se \u00eenchide circuitul electric prin intermediul unei sc\u00e2ntei. Intensitatea curentului este reglabil\u0103 \u0219i este cea care determin\u0103 c\u00e2t de tare va fi p\u0103truns materialul de sudat. La acest procedeu materialul de adaos folosit este furnizat de c\u0103tre electrodul de sudare. ",
+        "question": "Cum este amplasata piesa ce urmeaz sa fie sudata?",
+        "answers": {
+            "text": [
+                "este conectat\u0103 la polul mas\u0103 al sursei de tensiune.",
+                "Piesa ce urmeaz\u0103 s\u0103 fie sudat\u0103 este conectat\u0103 la polul mas\u0103 al sursei de tensiune"
+            ],
+            "answer_start": [
+                "76",
+                45
+            ]
+        }
+    },
+    {
+        "id": "DB27N4310",
+        "context": "Procedeul de sudare cu flac\u0103r\u0103 oxiacetilenic\u0103. Sursa de c\u0103ldur\u0103 este o flac\u0103r\u0103 oxi-gaz. Uzual, cele dou\u0103 gaze sunt acetilena \u0219i oxigenul. Acetilena este ob\u021binut\u0103 din reac\u021bia a doi constituen\u021bi chimici: carbidul \u0219i apa \u0219i se poate produce in-situ, \u00een generatoare, sau livrat\u0103 \u00een butelii. Acetilena este un material inflamabil, cu vitez\u0103 ridicat\u0103 de ardere.Temperatura ridicat\u0103 a fl\u0103c\u0103rii este asigurat\u0103 de arderea cu oxigen.",
+        "question": "Cum este obtinuta acetilena?",
+        "answers": {
+            "text": [
+                "din reac\u021bia a doi constituen\u021bi chimici: carbidul \u0219i apa \u0219i se poate produce in-situ, \u00een generatoare, sau livrat\u0103 \u00een butelii.",
+                "Acetilena este ob\u021binut\u0103 din reac\u021bia a doi constituen\u021bi chimici: carbidul \u0219i apa"
+            ],
+            "answer_start": [
+                "162",
+                138
+            ]
+        }
+    },
+    {
+        "id": "IR16H4429",
+        "context": "Generatorul electriceste un dispozitiv care transform\u0103energia mecanic\u0103\u00eenenergie electric\u0103. Transformarea din energia electric\u0103 \u00een energie mecanic\u0103 este f\u0103cut\u0103 deelectromotoare. \u00centre generatorul electric \u0219i electromotor nu sunt mari diferen\u021be de principiu. Motorul electric trifazat este cel mai r\u0103sp\u00e2ndit motor electric de curent alternativ.",
+        "question": "Care este cel mai utilizat motor electric de curent alternativ?",
+        "answers": {
+            "text": [
+                "Motorul electric trifazat este cel mai r\u0103sp\u00e2ndit motor electric de curent alternativ.",
+                "Motorul electric trifazat"
+            ],
+            "answer_start": [
+                "257",
+                257
+            ]
+        }
+    },
+    {
+        "id": "TB41E5477",
+        "context": "Indiferent de tipul motorului, acesta este construit din dou\u0103 p\u0103r\u021bi componente:stator\u0219irotor. \u00centre stator \u0219i rotor exist\u0103 o por\u021biune de aer numit\u0103 \u00eentrefier ce permite mi\u0219carea rotorului fa\u021b\u0103 de stator. Grosimea \u00eentrefierului este un indicator important al performan\u021belor motorului.",
+        "question": "Care sunt partile componente ale unui motor electric?",
+        "answers": {
+            "text": [
+                "stator\u0219irotor",
+                "stator \u0219i rotor"
+            ],
+            "answer_start": [
+                "79",
+                100
+            ]
+        }
+    },
+    {
+        "id": "CF67I8894",
+        "context": "Motoarele electrice pot fi clasificatedup\u0103 tipul curentului electric ce le parcurge: motoare de curent continuu \u0219i motoare de curent alternativ. \u00cen func\u021bie de num\u0103rul fazelor curentului cu care func\u021bioneaz\u0103, motoarele electrice pot fi motoare monofazate sau motoare polifazate (cu mai multe faze).",
+        "question": "De cate tipuri pot fi motoarele eclectrice din punct de vedere al num\u0103rului fazelor curentului?",
+        "answers": {
+            "text": [
+                "\u00cen func\u021bie de num\u0103rul fazelor curentului cu care func\u021bioneaz\u0103, motoarele electrice pot fi motoare monofazate sau motoare polifazate (cu mai multe faze).",
+                "\u00cen func\u021bie de num\u0103rul fazelor curentului cu care func\u021bioneaz\u0103, motoarele electrice pot fi motoare monofazate sau motoare polifazate"
+            ],
+            "answer_start": [
+                "145",
+                145
+            ]
+        }
+    },
+    {
+        "id": "WX12O4591",
+        "context": "Rotirea acestui tip de rotor se va face practic din pol \u00een pol, de unde \u0219i denumirea sa de motor pas cu pas. Comanda motorului se face electronic \u0219i se pot ob\u021bine deplas\u0103ri ale motorului bine cunoscute \u00een func\u021bie de programul de comand\u0103. Motoarele pas cu pas se folosesc acolo unde este necesar\u0103 precizie ridicat\u0103 (hard disc, copiatoare).",
+        "question": "Ce dispozitive au in componenta sa motor pas cu pas?",
+        "answers": {
+            "text": [
+                "hard disc, copiatoare",
+                "Motoarele pas cu pas se folosesc acolo unde este necesar\u0103 precizie ridicat\u0103"
+            ],
+            "answer_start": [
+                "315",
+                238
+            ]
+        }
+    },
+    {
+        "id": "PK68W3597",
+        "context": "acustica studiaz\u0103 interac\u021biunea sunetului cu materialele, propagarea \u00een spa\u021biu, precum \u0219i percep\u021bia sunetului \u0219i efectele asupra oamenilor \u0219i animalelor. Acustica este un domeniu de cercetare \u0219i aplica\u021bie interdisciplinar, bazat pe diferite discipline, cafizica,psihologia,fiziologia, tehnica transmisiei de informa\u021bii, \u0219tiin\u021ba materialelor etc. Sunetul se propag\u0103 diferit \u00een diverse medii, acestea influen\u021b\u00e2nd viteza de propagare \u0219i spectrulfrecven\u021belor.",
+        "question": "Ce disipline intervin in studierea acusticii?",
+        "answers": {
+            "text": [
+                "Acustica este un domeniu de cercetare \u0219i aplica\u021bie interdisciplinar, bazat pe diferite discipline, cafizica,psihologia,fiziologia, tehnica transmisiei de informa\u021bii, \u0219tiin\u021ba materialelor etc",
+                "Acustica este un domeniu de cercetare \u0219i aplica\u021bie interdisciplinar, bazat pe diferite discipline"
+            ],
+            "answer_start": [
+                "154",
+                154
+            ]
+        }
+    },
+    {
+        "id": "ZW19S5137",
+        "context": "Aburul, cupresiune\u0219itemperatur\u0103ridicat\u0103 este destins \u00eenpaletele statorului, numite \u0219iajutaje, p\u00e2n\u0103 la o presiune mai mic\u0103.Energiaaburului, caracterizat\u0103 prinentalpieeste transformat\u0103 \u00eenenergie cinetic\u0103. Aburului cuvitez\u0103mare i se schimb\u0103 direc\u021bia de curgere cu ajutorul unorpalete, rezult\u00e2nd ofor\u021b\u0103care ac\u021bioneaz\u0103 asupra paletelor, for\u021b\u0103 care creeaz\u0103 unmomentasupra rotorului. ",
+        "question": "Care este traiectoria aburului odata eliberat?",
+        "answers": {
+            "text": [
+                "Aburului cuvitez\u0103mare i se schimb\u0103 direc\u021bia de curgere cu ajutorul unorpalete, rezult\u00e2nd ofor\u021b\u0103care ac\u021bioneaz\u0103 asupra paletelor, for\u021b\u0103 care creeaz\u0103 unmomentasupra rotorului.",
+                "Aburului cuvitez\u0103mare i se schimb\u0103 direc\u021bia de curgere"
+            ],
+            "answer_start": [
+                "203",
+                203
+            ]
+        }
+    },
+    {
+        "id": "HW48H5536",
+        "context": "Cus\u0103tura pentru butonier\u0103 festonat\u0103.Cus\u0103tura festonat\u0103 se formeaz\u0103 prin incruci\u0219area firului la orificiul butonierei t\u0103iate, \u00een urma careia rezult\u0103 un r\u00e2nd de noduri, care protejeaz\u0103 marginea \u021bes\u0103turii \u00eempotriva frec\u0103rii. Se execut\u0103 pentru a \u00eent\u0103ri butoniera \u00eempotriva uzurii prin frecare.\n",
+        "question": "In ce cosnta cusatura festonata?",
+        "answers": {
+            "text": [
+                "Cus\u0103tura festonat\u0103 se formeaz\u0103 prin incruci\u0219area firului la orificiul butonierei t\u0103iate, \u00een urma careia rezult\u0103 un r\u00e2nd de noduri, care protejeaz\u0103 marginea \u021bes\u0103turii \u00eempotriva frec\u0103rii.",
+                "Cus\u0103tura festonat\u0103 se formeaz\u0103 prin incruci\u0219area firului la orificiul butonierei t\u0103iate, \u00een urma careia rezult\u0103 un r\u00e2nd de noduri"
+            ],
+            "answer_start": [
+                "36",
+                36
+            ]
+        }
+    },
+    {
+        "id": "WS37V6034",
+        "context": "La temperatur\u0103 constant\u0103, \u00eentr-un sistem \u00eenchis par\u021bial umplut cu lichid se realizeaz\u0103 \u00een mod spontan o stare de echilibru \u00eentre faza lichid\u0103 \u0219i cea gazoas\u0103. \u00cen starea de echilibru, num\u0103rul de molecule ce sevaporizeaz\u0103este egal cu num\u0103rul de molecule ce selichefiaz\u0103. Vaporii afla\u021bi \u00een echilibru de faz\u0103 cu lichidul se numescvapori satura\u021bi, presiunea de vapori ating\u00e2nd \u00een acest caz valoarea sa maxim\u0103{\\displaystyle P_{m}}{\\displaystyle P_{m}}, numit\u0103 presiune de satura\u021bie a vaporilor.",
+        "question": "Cand se formeaza starea de echilibru \u00eentre faza lichid\u0103 \u0219i cea gazoas\u0103?",
+        "answers": {
+            "text": [
+                "La temperatur\u0103 constant\u0103, \u00eentr-un sistem \u00eenchis par\u021bial umplut cu lichid se realizeaz\u0103 \u00een mod spontan o stare de echilibru \u00eentre faza lichid\u0103 \u0219i cea gazoas\u0103.",
+                "\u00cen starea de echilibru, num\u0103rul de molecule ce sevaporizeaz\u0103este egal cu num\u0103rul de molecule ce selichefiaz\u0103"
+            ],
+            "answer_start": [
+                "0",
+                158
+            ]
+        }
+    },
+    {
+        "id": "YQ36P4137",
+        "context": "Prafuleste materialul format dinparticulesolide foarte fine, provenite din f\u0103r\u00e2mi\u021barea natural\u0103 ascoar\u021bei terestre, a unorcorpuri solide, din uneleprocese biologiceale vie\u021buitoarelor. Praful se g\u0103se\u0219te peste tot.Praful provine din zone aride, adic\u0103 din regiuni unde v\u00e2nturile bat cu viteze mari \u0219i au puterea de a toci \u0219i roade majoritatea compu\u0219ilor minerali.Praful con\u021bine mai multe elemente, printre care resturi de piele uman\u0103, bacterii \u0219i resturi de animale moarte.\n\n",
+        "question": "De unde provine praful?",
+        "answers": {
+            "text": [
+                "din zone aride",
+                "Praful provine din zone aride"
+            ],
+            "answer_start": [
+                "227",
+                212
+            ]
+        }
+    },
+    {
+        "id": "XU72L8415",
+        "context": "Neonul este al doilea cel mai u\u0219orgaz nobil. Str\u0103luce\u0219te ro\u0219u-oranj \u00eentr-un tub de desc\u0103rcare vidat. Conform studiilor recente, neonul este cel mai pu\u021bin reactivgaz nobildeci \u0219i cel mai pu\u021bin reactiv dintre toate elementele. Are de peste 40 de ori capacitatea refrigerent\u0103 aheliuluilichid \u0219i de trei ori cea ahidrogenuluilichid. \u00cen majoritatea aplica\u021biilor este un refrigerent mai ieftin dec\u00e2t heliul.",
+        "question": "Ce culoare are neonul intr-un tub de descarcare vidat?",
+        "answers": {
+            "text": [
+                "Str\u0103luce\u0219te ro\u0219u-oranj \u00eentr-un tub de desc\u0103rcare vidat.",
+                "Str\u0103luce\u0219te ro\u0219u-oranj"
+            ],
+            "answer_start": [
+                "45",
+                45
+            ]
+        }
+    },
+    {
+        "id": "NM73Q9293",
+        "context": "Sarcina electric\u0103saucantitatea de electricitateeste om\u0103rime fizic\u0103ce exprim\u0103 din punct de vedere macroscopic o proprietate fundamental\u0103 a materiei care determin\u0103 acesteia interac\u021biile princ\u00e2mp electromagnetic. Exist\u0103 dou\u0103 tipuri de sarcin\u0103 electric\u0103, pozitive \u0219i negative, determinate de particule subatomice.Materia\u00eenc\u0103rcat\u0103 electric este influen\u021bat\u0103 dec\u00e2mpul electric, \u0219i \u00een acela\u0219i timp produce c\u00e2mp electric.",
+        "question": "Cate tipuri de sarcina pot fi intalnite?",
+        "answers": {
+            "text": [
+                "Exist\u0103 dou\u0103 tipuri de sarcin\u0103 electric\u0103, pozitive \u0219i negative, determinate de particule subatomice.",
+                "Exist\u0103 dou\u0103 tipuri de sarcin\u0103 electric\u0103"
+            ],
+            "answer_start": [
+                "210",
+                210
+            ]
+        }
+    },
+    {
+        "id": "YX77H7114",
+        "context": "Tranzistoare de mic\u0103 putere. Sunt tranzistoare incapsulate in plastic sau metal \u0219i nu sunt destinate mont\u0103rii pe radiator. Rezistenta termic\u0103 jonc\u021biune capsul\u0103, la aceste tranzistoare este mai mare dec\u00e2t 15\u00b0C/W. 2.Tranzistoare de putere. Sunt tranzistoare incapsulate \u00een plastic sau metal \u0219i s\u00e2nt destinate pentru montarea pe radiator. Rezisten\u021ba termic\u0103 jonc\u021biune-capsul\u0103 la aceste tranzistoare este mai mica de 15\u00b0C/W.",
+        "question": "Ce tranzistoare pot fi montate pe radiator?",
+        "answers": {
+            "text": [
+                "Tranzistoare de putere. Sunt tranzistoare incapsulate \u00een plastic sau metal \u0219i s\u00e2nt destinate pentru montarea pe radiator.",
+                "Tranzistoare de putere"
+            ],
+            "answer_start": [
+                "214",
+                214
+            ]
+        }
+    },
+    {
+        "id": "NG25C5237",
+        "context": "Exist\u0103 dou\u0103 tipuri de microcontrolere ale tastaturii care comunic\u0103 cu sistemul - unul pe placa de baz\u0103 a calculatorului(controler integrat), \u0219i unul care este situat \u00een interiorul tastaturii. Comunicarea cu microcontrolerul de pe placa de baz\u0103 se efectueaz\u0103 prin portul 64h. Citirea octe\u021bilor (byte) relev\u0103 starea controlerului. Scrierea pe acest bit trimite controlerului integrat o comand\u0103.",
+        "question": "Care sunt tipurile de microcontroale are o tastatura?",
+        "answers": {
+            "text": [
+                "unul pe placa de baz\u0103 a calculatorului(controler integrat), \u0219i unul care este situat \u00een interiorul tastaturii.",
+                "Exist\u0103 dou\u0103 tipuri de microcontrolere ale tastaturii"
+            ],
+            "answer_start": [
+                "81",
+                0
+            ]
+        }
+    },
+    {
+        "id": "HQ36W3836",
+        "context": "Exist\u0103 dou\u0103 tipuri de microcontrolere ale tastaturii care comunic\u0103 cu sistemul - unul pe placa de baz\u0103 a calculatorului(controler integrat), \u0219i unul care este situat \u00een interiorul tastaturii. Comunicarea cu microcontrolerul de pe placa de baz\u0103 se efectueaz\u0103 prin portul 64h. Citirea octe\u021bilor (byte) relev\u0103 starea controlerului. Scrierea pe acest bit trimite controlerului integrat o comand\u0103.",
+        "question": "Cum se efectueaza comunicarea cu microcontrolerul de pe placa de baz\u0103?",
+        "answers": {
+            "text": [
+                "prin portul 64h",
+                "Comunicarea cu microcontrolerul de pe placa de baz\u0103 se efectueaz\u0103 prin portul 64h"
+            ],
+            "answer_start": [
+                "258",
+                192
+            ]
+        }
+    },
+    {
+        "id": "EV30N7121",
+        "context": "Microprocesorul(prescurtat:CPU) este unitatea central\u0103 de prelucrare care efectueaz\u0103 principalele opera\u021bii matematice \u00een sistem binar \u0219i este conectat la placa de baz\u0103 prin intermediul unui soclu care face leg\u0103tura \u00eentre pinii terminali ai microprocesorului \u0219i pinii terminali ai pl\u0103cii de baz\u0103, totodat\u0103 realiz\u00e2ndu-se \u0219i o fixare mecanic\u0103 a microprocesorului.",
+        "question": "Cum este conectat la placa de baza?",
+        "answers": {
+            "text": [
+                "prin intermediul unui soclu care face leg\u0103tura \u00eentre pinii terminali ai microprocesorului \u0219i pinii terminali ai pl\u0103cii de baz\u0103, totodat\u0103 realiz\u00e2ndu-se \u0219i o fixare mecanic\u0103 a microprocesorului.",
+                "prin intermediul unui soclu"
+            ],
+            "answer_start": [
+                "168",
+                168
+            ]
+        }
+    },
+    {
+        "id": "OU84S9024",
+        "context": "Modulele memoriei SDRAM au o arhitectur\u0103 cu 2 sau 4 bancuri pe modul, ceea ce face posibil ca un banc s\u0103 fie pre\u00eenc\u0103rcat, \u00een timp ce altele sunt citite sau scrise. Acest lucru permite ca diferite linii din fiecare banc s\u0103 fie accesate simultan. Cele mai utilizate module SDRAM au 4 linii de ceas, ceea ce duce la ob\u021binerea unor timpi mai redu\u0219i de cre\u0219tere \u0219i descre\u0219tere a tensiunilor.",
+        "question": "Care este procedeul de functionare al modulelor memoriei SDRAM?",
+        "answers": {
+            "text": [
+                "Modulele memoriei SDRAM au o arhitectur\u0103 cu 2 sau 4 bancuri pe modul, ceea ce face posibil ca un banc s\u0103 fie pre\u00eenc\u0103rcat, \u00een timp ce altele sunt citite sau scrise.",
+                "Modulele memoriei SDRAM au o arhitectur\u0103 cu 2 sau 4 bancuri pe modul"
+            ],
+            "answer_start": [
+                "0",
+                0
+            ]
+        }
+    },
+    {
+        "id": "RJ28B4523",
+        "context": "Circuitul integrat este un dispozitiv electronic alc\u0103tuit din mai multe componente electrice \u0219i electronice interconectate, pasive \u0219i active, situate pe o pl\u0103cu\u021b\u0103 de material semiconductor (f\u0103cut\u0103 de exemplu dinsiliciu), dispozitiv care \u00een cele mai multe cazuri este \u00eencapsulat \u00eentr-o capsul\u0103 etan\u0219\u0103 prev\u0103zut\u0103 cu elemente de conexiune electric\u0103 spre exterior, numite terminale sau pini (\u201epicioru\u0219e\u201d). Circuitele integrate sunt folosite \u00een toate echipamentele electronice din zilele noastre \u0219i au revolu\u021bionat lumea electronicelor.",
+        "question": "Ce este un circuit integrat?",
+        "answers": {
+            "text": [
+                "Circuitul integrat este un dispozitiv electronic alc\u0103tuit din mai multe componente electrice \u0219i electronice interconectate, pasive \u0219i active, situate pe o pl\u0103cu\u021b\u0103 de material semiconductor (f\u0103cut\u0103 de exemplu dinsiliciu)",
+                "Circuitul integrat este un dispozitiv electronic alc\u0103tuit din mai multe componente electrice \u0219i electronice interconectate, pasive \u0219i active"
+            ],
+            "answer_start": [
+                "0",
+                0
+            ]
+        }
+    },
+    {
+        "id": "DG19X6372",
+        "context": "La discurile dure din calculatoarele personale portabile (notebook etc.) un consum de curent (energie) redus \u00eenseamn\u0103 o durat\u0103 de func\u021bionare mai mare p\u00e2n\u0103 la re\u00eenc\u0103rcarea acumulatoarelor, deci un avantaj important.Timpii de acces variaz\u0103 \u020bn prezent \u020bncep\u00e2nd de la sub 2 ms (milisecunde) pentru unit\u0103\u021bile de HDD de server, la 15 ms pentru unit\u0103\u021bile de HDD \u020bn miniatur\u0103 \u0219i \u020bn jur de 9 ms pentru unit\u0103\u021bile de HDD tipice dedesktop.",
+        "question": "Care sunt timpii de acces pentru un hard disk in miniatura?",
+        "answers": {
+            "text": [
+                "15 ms",
+                "9 ms"
+            ],
+            "answer_start": [
+                "326",
+                382
+            ]
+        }
+    },
+    {
+        "id": "WB77A2982",
+        "context": "Conectorii se g\u0103sesc pe cabluri \u0219i adaptoare, iar porturile se g\u0103sesc pe dispozitive gazd\u0103 \u0219i adaptoare.Conectorii \u0219i cablurile USB-C sunt folosi\u021bi pentru conectarea dispozitivelor periferice, \u00eenlocuind diver\u0219i conectori USB-B \u0219i USB-A, inclusiv HDMI, DisplayPort \u0219i audio de 3,5 mm. Cablurile sunt cu dou\u0103 mufe de tip C la ambele capete.\n",
+        "question": "Ce intrebuintari au conectorii \u0219i cablurile USB-C?",
+        "answers": {
+            "text": [
+                "sunt folosi\u021bi pentru conectarea dispozitivelor periferice",
+                "Conectorii \u0219i cablurile USB-C sunt folosi\u021bi pentru conectarea dispozitivelor periferice"
+            ],
+            "answer_start": [
+                "134",
+                104
+            ]
+        }
+    },
+    {
+        "id": "RD45G3349",
+        "context": "Un navigator este alc\u0103tuit dintr-un set de programe care permite afi\u0219area \u0219i manevrarea informa\u021biilor bazate pe text, imagini \u0219i sunet precum \u0219i rularea unor programe pe care siturile web \u0219i documentele le pot include (applet-uri, scripturi). Fiecare navigator are o caset\u0103 de text unde utilizatorul poate introduce adresa documentului sau a sitului dorit, adres\u0103 care este unic\u0103 pe lume (univoc\u0103), numit\u0103 (Uniform Resource LocatorsauURL).",
+        "question": "Din ce este alcatuit un navigator?",
+        "answers": {
+            "text": [
+                "dintr-un set de programe care permite afi\u0219area \u0219i manevrarea informa\u021biilor bazate pe text, imagini \u0219i sunet precum \u0219i rularea unor programe pe care siturile web \u0219i documentele le pot include (applet-uri, scripturi).",
+                "Un navigator este alc\u0103tuit dintr-un set de programe"
+            ],
+            "answer_start": [
+                "27",
+                0
+            ]
+        }
+    },
+    {
+        "id": "SW36V6958",
+        "context": "Secure Digital, prescurtatSD, este un tip decard de memoriefoarte r\u0103sp\u00e2ndit. \u021aine de marea grup\u0103 dememorii cu acces aleator\u0219i de asemenea, din alt punct de vedere, de grupa memoriilorSSD. Memoria unui card SD este nevolatil\u0103 (nu necesit\u0103 alimentare cu curent electric).Capacitatea maxim\u0103 a unui card SDXC atinge 2 TB. Cardurile SD se fabric\u0103 \u00een mai multe clase de performan\u021b\u0103 (vitez\u0103 de transmisie a datelor), iar pre\u021burile depind \u0219i de aceast\u0103 clas\u0103.",
+        "question": "Ce capacitate maxima poate avea un card SDXC?",
+        "answers": {
+            "text": [
+                " 2 TB",
+                "Capacitatea maxim\u0103 a unui card SDXC atinge 2 TB"
+            ],
+            "answer_start": [
+                "311",
+                269
+            ]
+        }
+    },
+    {
+        "id": "OC22B3571",
+        "context": "Un afi\u0219aj AMOLED este alc\u0103tuit dintr-o matrice activ\u0103 de pixeliOLEDcare genereaz\u0103 lumin\u0103 (luminascen\u021b\u0103) la activareaelectric\u0103care a fost depus\u0103 sau integrat\u0103 \u00eentr-o matrice detranzistori cu film sub\u021bire(TFT) care func\u021bioneaz\u0103 ca o serie de \u00eentrerup\u0103toare ce controleaz\u0103 fluxul curentului electric c\u0103tre fiecarepixelindividual.",
+        "question": "Din ce este alcatuit un afisaj AMOLED?",
+        "answers": {
+            "text": [
+                "dintr-o matrice activ\u0103 de pixeliOLED",
+                "Un afi\u0219aj AMOLED este alc\u0103tuit dintr-o matrice activ\u0103 de pixeliOLED"
+            ],
+            "answer_start": [
+                "31",
+                0
+            ]
+        }
+    },
+    {
+        "id": "SC68W1193",
+        "context": "VirusTotaleste unsite webcare ofer\u0103 servicii gratuite de verificare a fi\u0219ierelor contra viru\u0219ilor. Acesta folose\u0219te p\u00e2n\u0103 la 54[2]de producteantivirusdiferite[3]\u0219i motoare de scanare pentru a verifica fi\u0219ierele dac\u0103 sunt virusate sau pentru a verifica contra cazurilorfals pozitiv.[4]Fi\u0219ierele de p\u00e2n\u0103 la 128 MB pot fi \u00eenc\u0103rcate pe site sau trimise prin email.",
+        "question": "Ce denumeste termenul de VirusTotal?",
+        "answers": {
+            "text": [
+                "unsite webcare ofer\u0103 servicii gratuite de verificare a fi\u0219ierelor contra viru\u0219ilor.",
+                "VirusTotal"
+            ],
+            "answer_start": [
+                "15",
+                0
+            ]
+        }
+    },
+    {
+        "id": "WK41A6925",
+        "context": "LCD (Liquid Crystal Display) -televizoarele la care ecranul este alc\u0103tuit dintr-un num\u0103r de pixeli monocromi a\u0219eza\u021bi \u00een fa\u021ba unei surse de lumin\u0103 (l\u0103mpi ccfl) sau a unei oglinzi reflectoare de lumin\u0103. Fiecare pixel al unui ecran LCD este alc\u0103tuit dintr-un strat de molecule de cristal lichid aliniate \u00eentre doi electrozi transparen\u021bi \u0219i dou\u0103 filtre folosite pentru polarizare ale c\u0103ror axe sunt de obicei, perpendiculare una pe cealalt\u0103 \u0219i care con\u021bin compu\u0219i ionici.",
+        "question": "Ce presupune notiunea de pixel in fucntionarea unui televizor?",
+        "answers": {
+            "text": [
+                "Fiecare pixel al unui ecran LCD este alc\u0103tuit dintr-un strat de molecule de cristal lichid aliniate \u00eentre doi electrozi transparen\u021bi \u0219i dou\u0103 filtre folosite pentru polarizare ale c\u0103ror axe sunt de obicei",
+                "Fiecare pixel al unui ecran LCD este alc\u0103tuit dintr-un strat de molecule de cristal lichid"
+            ],
+            "answer_start": [
+                "201",
+                201
+            ]
+        }
+    },
+    {
+        "id": "AK98K8063",
+        "context": "Amplificatoarele retransmit semnalele celulare din exteriorul cl\u0103dirii spre interiorul ei. Sistemul utilizeaz\u0103 o anten\u0103 extern\u0103 pentru a colecta semnalul celular, care este direc\u021bionat prin cablul coaxial spre amplificator. Acesta amplific\u0103 semnalul \u0219i \u00eel retransmite pe plan local, printr-o anten\u0103 secundar\u0103 instalat\u0103 \u00een zona f\u0103r\u0103 acoperire a semnalului .",
+        "question": "Ce echipament participa in mod direct la amplificarea semnalului?",
+        "answers": {
+            "text": [
+                "printr-o anten\u0103 secundar\u0103 instalat\u0103 \u00een zona f\u0103r\u0103 acoperire a semnalului .",
+                "Amplificatoarele"
+            ],
+            "answer_start": [
+                "283",
+                0
+            ]
+        }
+    },
+    {
+        "id": "NJ27Z4437",
+        "context": "Un server (fizic) ruleaz\u0103 unul sau mai multe programe server, care partajeaz\u0103 resursele existente cu clien\u021bii. Clientul nu partajeaz\u0103 niciuna dintre resursele proprii, ci apeleaz\u0103 la resursele serverului prin func\u021biile server. Clien\u021bii ini\u021biaz\u0103 comunica\u021bia cu serverele \u0219i a\u0219teapt\u0103 mesajele acestora.",
+        "question": "Cum se acceseaza serverele?",
+        "answers": {
+            "text": [
+                "Clien\u021bii ini\u021biaz\u0103 comunica\u021bia cu serverele \u0219i a\u0219teapt\u0103 mesajele acestora.",
+                "Clien\u021bii ini\u021biaz\u0103 comunica\u021bia cu serverele"
+            ],
+            "answer_start": [
+                "227",
+                227
+            ]
+        }
+    },
+    {
+        "id": "BO39E7740",
+        "context": "C\u0103rbunele e un tip deroc\u0103 sedimentar\u0103format\u0103 din resturi de plante.Copacii \u00een descompunere din zonele ml\u0103\u0219tinoase au format turb\u0103rii. Turba s-a scufundat tot mai mult \u0219i s-a transformat \u00een lignit, apoi \u00een c\u0103rbune bituminos \u0219i, \u00een final, \u00een antracit - c\u0103rbunele de cea mai bun\u0103 calitate. C\u0103rbunele produce 27% din energia luminii. E folosit \u00een centrale electrice \u0219i \u00een industrie.",
+        "question": "Ce procent din energia lumii este asigurata de carbune?",
+        "answers": {
+            "text": [
+                "27",
+                "27%"
+            ],
+            "answer_start": [
+                "305",
+                305
+            ]
+        }
+    },
+    {
+        "id": "YC75B7082",
+        "context": "Cea mai r\u0103sp\u00e2ndit\u0103 configura\u021bie pentru suspensia ro\u021bilor la motociclete const\u0103 \u00een dou\u0103amortizoare telescopicepentru roata fa\u021b\u0103 si un amortizor pentru bascula \u00een care este montat\u0103 roata din spate. Amortizoarele sunt hidraulice sau cu gaz. Recent, acestea sunt montate cu tubul interior la cap\u0103tul dinspre roat\u0103 (furca \"upside-down\") pentru a reduce iner\u021bia ansamblului \u0219i a \u00eembun\u0103t\u0103\u021bi comportamentul pe drum denivelat.",
+        "question": "Cu ce tip de energie functioneaza amortizoarele?",
+        "answers": {
+            "text": [
+                "sunt hidraulice sau cu gaz",
+                "Amortizoarele sunt hidraulice sau cu gaz"
+            ],
+            "answer_start": [
+                "210",
+                196
+            ]
+        }
+    },
+    {
+        "id": "KU62E9441",
+        "context": "La bicicletele pentru adul\u021bi, ro\u021bile au de obicei diametrul de 26\" (uninch= 25,4 milimetri). Alte diametre frecvent \u00eent\u00e2lnite la ro\u021bile de biciclet\u0103 sunt 24\", 27'5\", 28\" si 29\". Componentele unei ro\u021bi de biciclet\u0103 sunt butucul, spi\u021bele, janta (\"cercul\", \u00een limbajul neoficial al bike-rilor), anvelopa (\"guma\") \u0219i camera. Ro\u021bile de biciclet\u0103 au de obicei 24, 32 sau 36 de spi\u021be.",
+        "question": "Cate spite au rotile de bicicleta?",
+        "answers": {
+            "text": [
+                "de obicei 24, 32 sau 36 de spi\u021be.",
+                "Ro\u021bile de biciclet\u0103 au de obicei 24, 32 sau 36 de spi\u021be"
+            ],
+            "answer_start": [
+                "344",
+                321
+            ]
+        }
+    },
+    {
+        "id": "BD63Q2171",
+        "context": "Policlorura de vinil (C2H3Cl)cu numele prescurtatPVCeste o substan\u021b\u0103 din categoria materialelor termoplastice cu o structur\u0103 amorf\u0103. Sunt dou\u0103 forme de PVC, \u201eforma dur\u0103\u201d \u0219i \u201eforma moale\u201d la care s-au ad\u0103ugat stabilizatori. Forma moale este mai r\u0103sp\u00e2ndit\u0103 fiind PVC-ul, adecvat\u0103 prelucr\u0103rilor tehnice, este forma care se aplic\u0103 pe du\u0219umea, sau \u00eenconstruc\u021biila conductele din material plastic.",
+        "question": "Ce este PVC?",
+        "answers": {
+            "text": [
+                "o substan\u021b\u0103 din categoria materialelor termoplastice cu o structur\u0103 amorf\u0103.",
+                "substan\u021b\u0103 din categoria materialelor termoplastice"
+            ],
+            "answer_start": [
+                "57",
+                59
+            ]
+        }
+    },
+    {
+        "id": "FZ41Q2542",
+        "context": "Consola con\u021bine 2 butoane de tip analog stick (spre deosebire pe predecesorul s\u0103u care de\u021bine unul) , un ecranOLEDmulti-tactilcu o diagonal\u0103 de 5-inch (12,7cm), de asemenea areBluetooth,Wi-Fi\u0219i op\u021bional3G. Intern are un procesor 4 core ARM Cortex-A9 core \u0219i o plac\u0103 grafic\u0103 SGX543MP4+.",
+        "question": "Ce tip de procesor are consola PlayStation Vita?",
+        "answers": {
+            "text": [
+                "procesor 4 core ARM Cortex-A9 core \u0219i o plac\u0103 grafic\u0103 SGX543MP4+.",
+                "ARM Cortex-A9"
+            ],
+            "answer_start": [
+                "220",
+                236
+            ]
+        }
+    },
+    {
+        "id": "SY28N8454",
+        "context": "Desc\u00e2lcire, descurcare. Obiectivul jocului e s\u0103 eliberezi (elimini) o pies\u0103 din el. De obicei e vorba de un inel sau o alt\u0103 form\u0103 inchis\u0103 (ciclic\u0103). Majoritatea sunt construite din s\u00e2rm\u0103 (metal) sau sfoar\u0103, eventual combinate cu elemente din lemn sau sticl\u0103.",
+        "question": "Din ce material sunt construite jocurile problema de desfacere?",
+        "answers": {
+            "text": [
+                "din s\u00e2rm\u0103 (metal) sau sfoar\u0103, eventual combinate cu elemente din lemn sau sticl\u0103.",
+                "Majoritatea sunt construite din s\u00e2rm\u0103 (metal) sau sfoar\u0103"
+            ],
+            "answer_start": [
+                "177",
+                149
+            ]
+        }
+    },
+    {
+        "id": "DG41R2852",
+        "context": "Refrac\u021bia este schimbarea direc\u021biei de propagare a unei unde din cauza schimb\u0103rii vitezei de propagare, la interfa\u021ba dintre dou\u0103 medii sau la gradientul local al propriet\u0103\u021bilor mediului \u00een care se propag\u0103. Cel mai u\u0219or de observat exemplu este \u00een cazul luminii, atunci c\u00e2nd aceasta trece dintr-un mediu transparent (aer, ap\u0103, sticl\u0103 etc.) \u00een altul. Totu\u0219i fenomenul se petrece cu toate undele, inclusiv cu cele sonore.",
+        "question": "Ce este refractia?",
+        "answers": {
+            "text": [
+                "este schimbarea direc\u021biei de propagare a unei unde din cauza schimb\u0103rii vitezei de propagare, la interfa\u021ba dintre dou\u0103 medii sau la gradientul local al propriet\u0103\u021bilor mediului \u00een care se propag\u0103.",
+                "Refrac\u021bia este schimbarea direc\u021biei de propagare a unei unde din cauza schimb\u0103rii vitezei de propagare, la interfa\u021ba dintre dou\u0103 medii sau la gradientul local al propriet\u0103\u021bilor mediului \u00een care se propag\u0103"
+            ],
+            "answer_start": [
+                "10",
+                0
+            ]
+        }
+    },
+    {
+        "id": "LX20Q6346",
+        "context": "iPhone este un telefon mobil de tip smartphone. A fost anun\u021bat de c\u0103tre Steve Jobs, fost CEO al companiei americane Apple, Inc., \u00een timpul discursului s\u0103u de la Macworld Conference & Expo de la 9 ianuarie 2007.[3][4] iPhone are suport pentru push e-mail, telefonie mobil\u0103 GSM, SMS, navigare web. \u00cen plus este dotat cu un ecran de tip touchscreen (tactil) , include func\u021biile g\u0103site \u0219i la playerele media de tip iPod \u0219i ruleaz\u0103 o variant\u0103 a sistemului de operare Mac OS X, numit\u0103 actualmente iOS..",
+        "question": "Ce este iOS?",
+        "answers": {
+            "text": [
+                "o variant\u0103 a sistemului de operare Mac OS X, numit\u0103 actualmente iOS.",
+                "iOS"
+            ],
+            "answer_start": [
+                "427",
+                491
+            ]
+        }
+    },
+    {
+        "id": "QR46O6822",
+        "context": "Compania a creat un concept de parc de distrac\u021bii denumit \u201eLegoland\u201d, cu mai multe loca\u021bii \u00een ora\u0219e din \u00eentreaga lume, printre care Gunsburg din Germania. Primul personaj Lego a fost un poli\u021bist din anii \u201e90\u201d. Cu ajutorul juc\u0103riilor LEGO putem construi diverse lucruri. Compania de juc\u0103rii de construc\u021bii din piese de plastic LEGO a fost creat\u0103 de Ole Kirk Christiansen \u00een satul s\u0103u natal Billund, Danemarca.",
+        "question": "Unde a luat nastere conceptul Lego?",
+        "answers": {
+            "text": [
+                "Compania de juc\u0103rii de construc\u021bii din piese de plastic LEGO a fost creat\u0103 de Ole Kirk Christiansen \u00een satul s\u0103u natal Billund, Danemarca.",
+                "Danemarca"
+            ],
+            "answer_start": [
+                "270",
+                398
+            ]
+        }
+    },
+    {
+        "id": "IC37Q9049",
+        "context": "Mercurul se solidific\u0103 (\u00eenghea\u021b\u0103) la \u221238,9 \u00b0C, deci poate fi folosit numai la temperaturi mai ridicate dec\u00e2t aceasta. Spre deosebire de ap\u0103, mercurul nu \u00ee\u0219i m\u0103re\u0219te volumul la solidificare, deci nu va sparge tubul de sticl\u0103. Din acela\u0219i motiv este greu de determinat momentul solidific\u0103rii. Dac\u0103 termometrul con\u021bine azot, gazul poate s\u0103 curg\u0103 \u00een josul coloanei \u0219i s\u0103 fie capturat \u00een interiorul acesteia la cre\u0219terea temperaturii.",
+        "question": "Cum este impiedicata spargerea tubului de sticla?",
+        "answers": {
+            "text": [
+                "Spre deosebire de ap\u0103, mercurul nu \u00ee\u0219i m\u0103re\u0219te volumul la solidificare, deci nu va sparge tubul de sticl\u0103. Din acela\u0219i motiv este greu de determinat momentul solidific\u0103rii.",
+                "Spre deosebire de ap\u0103, mercurul nu \u00ee\u0219i m\u0103re\u0219te volumul la solidificare, deci nu va sparge tubul de sticl\u0103"
+            ],
+            "answer_start": [
+                "118",
+                118
+            ]
+        }
+    },
+    {
+        "id": "NN75A5770",
+        "context": "Ampermetrul este un aparat de m\u0103surare a intensit\u0103\u021bii curentului electric ce trece printr-un conductor sau un circuit electric.Exist\u0103 ampermetre folosite pentru curent continuu (c.c.) \u0219i ampermetre pentru curent alternativ (c.a.). Unitatea de m\u0103sur\u0103 pentru intensitatea curentului electric este, \u00een SI Amperul. Pentru a m\u0103sura curentul ce trece printr-un element (component\u0103) de circuit, ampermetrul se monteaz\u0103 \u00een serie cu acesta.",
+        "question": "Care este unitatea de masura pentru intensitatea curentului electric?",
+        "answers": {
+            "text": [
+                "Amperul",
+                "Unitatea de m\u0103sur\u0103 pentru intensitatea curentului electric"
+            ],
+            "answer_start": [
+                "302",
+                231
+            ]
+        }
+    },
+    {
+        "id": "VZ63C6367",
+        "context": "Tirul sportiv este un sport individual care const\u0103 \u00een tragerea cu cea mai mare precizie la \u021bint\u0103 fix\u0103 sau \u021bint\u0103 \u00een mi\u0219care, folosind diferite arme de foc \u0219i din diferite pozi\u021bii. S-a practicat de sute de ani \u00een Occident.[1] Primele cluburi de tir sportiv au fost \u00eenfiin\u021bate \u00een secolul al XIX-lea, Societatea elve\u021bian\u0103 a carabinierilor fiind fondat\u0103 \u00een 1824.A fost inclus ca sport olimpic cu probe pentru b\u0103rba\u021bi la prima edi\u021bie a Jocurilor moderne, la Atena, \u00een 1896.",
+        "question": "Cum se poate defini tirul sportiv?",
+        "answers": {
+            "text": [
+                "este un sport individual care const\u0103 \u00een tragerea cu cea mai mare precizie la \u021bint\u0103 fix\u0103 sau \u021bint\u0103 \u00een mi\u0219care, folosind diferite arme de foc \u0219i din diferite pozi\u021bii.",
+                "Tirul sportiv este un sport individual care const\u0103 \u00een tragerea cu cea mai mare precizie la \u021bint\u0103 fix\u0103 sau \u021bint\u0103 \u00een mi\u0219care, folosind diferite arme de foc \u0219i din diferite pozi\u021bii"
+            ],
+            "answer_start": [
+                "14",
+                0
+            ]
+        }
+    },
+    {
+        "id": "OJ89R3587",
+        "context": "Hidrantul de incendiu exterior este un dispozitiv fix cu robinet (van\u0103) aflat \u00een exteriorul cl\u0103dirilor \u0219i racordat la conductele de distribu\u021bie a apei sub presiune, care permite alimentarea autospecialelor de pompieri \u00een caz de incendiu, precum \u0219i stropirea str\u0103zilor sau gr\u0103dinilor.\u00cen general, incintele civile \u0219i industriale sunt prev\u0103zute cu hidran\u021bi exteriori, excep\u021bie f\u0103c\u00e2nd unele cl\u0103diri cu pericol redus la incendiu, care au dimensiuni \u0219i capacit\u0103\u021bi mici.",
+        "question": "Cum se poate descrie hidrantul de incendiu exterior?",
+        "answers": {
+            "text": [
+                "este un dispozitiv fix cu robinet (van\u0103) aflat \u00een exteriorul cl\u0103dirilor \u0219i racordat la conductele de distribu\u021bie a apei sub presiune",
+                "Hidrantul de incendiu exterior este un dispozitiv fix cu robinet (van\u0103) aflat \u00een exteriorul cl\u0103dirilor \u0219i racordat la conductele de distribu\u021bie a apei sub presiune"
+            ],
+            "answer_start": [
+                "31",
+                0
+            ]
+        }
+    },
+    {
+        "id": "MM83D3126",
+        "context": "Bateriile alcaline sunt un tip de baterii a c\u0103ror surs\u0103 de energie electric\u0103 este dependent\u0103 de reac\u021bia chimic\u0103 dintre zincul metalic \u0219i dioxidul de mangan.Tensiunea electric\u0103 nominal\u0103 a unei baterii alcaline noi fabricate are standardul stabilit de 1,5 V. Totu\u0219i, tensiunea poate varia de la 1,5 la 1,65 V \u00een func\u021bie de puritatea dioxidului de mangan utilizat la fabricarea bateriei sau de con\u021binutul de oxid de zinc din electrolit. Bateria desc\u0103rcat\u0103 poate prezenta o tensiune de 0,8 p\u00e2n\u0103 la 1 V.",
+        "question": "Ce tensiune alectrica are o baterie alcalina?",
+        "answers": {
+            "text": [
+                "are standardul stabilit de 1,5 V.",
+                "Tensiunea electric\u0103 nominal\u0103 a unei baterii alcaline"
+            ],
+            "answer_start": [
+                "223",
+                156
+            ]
+        }
+    },
+    {
+        "id": "AK87T2618",
+        "context": "O cazma este o unealt\u0103 alc\u0103tuit\u0103 dintr-o lam\u0103 metalic\u0103 t\u0103ietoare, fixat\u0103 la o coad\u0103 de lemn; este utilizat\u0103 la s\u0103patul p\u0103m\u00e2ntului sau pentru a scoate p\u0103m\u00e2nt din gropi \u0219i pentru r\u0103sp\u00e2ndirea \u0219i nivelarea solului. Este denumit\u0103 h\u00e2rle\u021b \u00een unele zone ale Rom\u00e2niei.[1] Regional (\u00een Transilvania), este folosit\u0103 \u0219i forma h\u00e2r\u0219eu. \u00cen graiul cri\u0219ean, exist\u0103 forma har\u0219eu",
+        "question": "Din ce este alcatuita o cazma?",
+        "answers": {
+            "text": [
+                "este o unealt\u0103 alc\u0103tuit\u0103 dintr-o lam\u0103 metalic\u0103 t\u0103ietoare, fixat\u0103 la o coad\u0103 de lemn",
+                "O cazma este o unealt\u0103 alc\u0103tuit\u0103 dintr-o lam\u0103 metalic\u0103 t\u0103ietoare"
+            ],
+            "answer_start": [
+                "8",
+                0
+            ]
+        }
+    },
+    {
+        "id": "NI34L3971",
+        "context": "Mecanismul biel\u0103-manivel\u0103 transform\u0103 mi\u0219carea de rota\u021bie \u00een mi\u0219care de transla\u021bie (mi\u0219care liniar\u0103) \u0219i/sau invers (viceversa). Cel mai r\u0103sp\u00e2ndit mecanism de acest gen se \u00eent\u00e2lne\u0219te \u00een motoarele cu ardere intern\u0103. \u00cen acest caz mi\u0219carea de transla\u021bie liniar\u0103 a pistonului este transferat\u0103 c\u0103tre biel\u0103 \u0219i se converte\u0219te \u00een mi\u0219care circular\u0103 a arborelui cotit.",
+        "question": "Cum actioneaza mecanismul biela-manivela?",
+        "answers": {
+            "text": [
+                "transform\u0103 mi\u0219carea de rota\u021bie \u00een mi\u0219care de transla\u021bie (mi\u0219care liniar\u0103) \u0219i/sau invers (viceversa).",
+                "Mecanismul biel\u0103-manivel\u0103 transform\u0103 mi\u0219carea de rota\u021bie \u00een mi\u0219care de transla\u021bie (mi\u0219care liniar\u0103) \u0219i/sau invers"
+            ],
+            "answer_start": [
+                "26",
+                0
+            ]
+        }
+    },
+    {
+        "id": "WT34M1228",
+        "context": "Micrometrul este un instrument pentru m\u0103surarea lungimilor mici, de ordinul micronilor, al c\u0103rui principiu de func\u021bionare se bazeaz\u0103 pe transformarea mi\u0219c\u0103rii de rota\u021bie a unui \u0219urub micrometric \u00een mi\u0219care de transla\u021bie. Este un instrument de mare precizie.Constructiv, un micrometru este alc\u0103tuit dintr-un ansamblu filetant potcoav\u0103 \u2013 nicoval\u0103 fix\u0103. Func\u021bional, micrometrul transform\u0103 mi\u0219carea de rota\u021bie a unui filet sau a unui \u0219urub micrometric \u00eentr-o mi\u0219care liniar\u0103 a unui suport numit tija micrometrului.",
+        "question": "Ce este un micrometru?",
+        "answers": {
+            "text": [
+                "este un instrument pentru m\u0103surarea lungimilor mici, de ordinul micronilor, al c\u0103rui principiu de func\u021bionare se bazeaz\u0103 pe transformarea mi\u0219c\u0103rii de rota\u021bie a unui \u0219urub micrometric \u00een mi\u0219care de transla\u021bie.",
+                "Micrometrul este un instrument pentru m\u0103surarea lungimilor mici, de ordinul micronilor"
+            ],
+            "answer_start": [
+                "12",
+                0
+            ]
+        }
+    },
+    {
+        "id": "TZ74Y9790",
+        "context": "Un moped (sau: ciclomotor) este un vehicul cu dou\u0103, trei sau patru ro\u021bi, a c\u0103rui vitez\u0103 maxim\u0103 prin construc\u021bie nu dep\u0103\u0219e\u0219te 45 km/h \u0219i care este echipat cu un motor cu ardere intern\u0103, cu aprindere prin sc\u00e2nteie, cu o capacitate cilindric\u0103 ce nu dep\u0103\u0219e\u0219te 50 cm\u00b3 sau cu un alt motor cu ardere intern\u0103 ori, dup\u0103 caz, electric, a c\u0103rui putere nominal\u0103 este de cel mult 4 kW.",
+        "question": "Cu ce viteza maxima poate rula un moped?",
+        "answers": {
+            "text": [
+                "nu dep\u0103\u0219e\u0219te 45 km/h",
+                "45 km/h"
+            ],
+            "answer_start": [
+                "112",
+                125
+            ]
+        }
+    },
+    {
+        "id": "HQ25E7925",
+        "context": "Windows 10 are multe op\u021biuni pentru utilizatori. Ace\u0219tia pot folosi meniul Start similar celui prezent \u00een Windows 7 sau \u00een full screen, precum \u00een Windows 8/8.1. Utilizatorii pot personaliza bara de activit\u0103\u021bi cu diferite culori, pot instala aplica\u021bii din Microsoft Store \u0219i pot \u00eencerca browserul Microsoft Edge.Instalarea pe un dispozitiv dureaz\u0103 \u00eentre 15 minute \u0219i o or\u0103, aceast\u0103 durat\u0103 depinz\u00e2nd de performan\u021ba dispozitivului respectiv.\n",
+        "question": "Cum poate fi personalizata bara de activitatii utilizand sistemul de operare Windows 10?",
+        "answers": {
+            "text": [
+                "cu diferite culori, pot instala aplica\u021bii din Microsoft Store \u0219i pot \u00eencerca browserul Microsoft Edge.",
+                "Utilizatorii pot personaliza bara de activit\u0103\u021bi cu diferite culori"
+            ],
+            "answer_start": [
+                "209",
+                161
+            ]
+        }
+    },
+    {
+        "id": "RU46Z4095",
+        "context": "Conform datelor din luna iulie a anului 2013, Firefox avea \u00eentre 16 \u0219i 21% utilizatori la nivel mondial, fiind al treilea cel mai popular browser.[11][12][13][14] Statisticile Mozilla arat\u0103 c\u0103 Firefox este folosit de peste 450 de milioane de persoane.[15] Browserul se bucur\u0103 de succes \u00een Indonezia, Germania \u0219i Polonia, unde este cel mai utilizat browser, av\u00e2nd o cot\u0103 de pia\u021b\u0103 de 57%,[16] 45%,[17] respectiv 44%.",
+        "question": "In ce tari se bucura de o popularitate crescuta navigatorul web Firefox?",
+        "answers": {
+            "text": [
+                "Browserul se bucur\u0103 de succes \u00een Indonezia, Germania \u0219i Polonia, unde este cel mai utilizat browser",
+                "Indonezia, Germania \u0219i Polonia"
+            ],
+            "answer_start": [
+                "256",
+                289
+            ]
+        }
+    },
+    {
+        "id": "VF12G5164",
+        "context": "Conform datelor din luna iulie a anului 2013, Firefox avea \u00eentre 16 \u0219i 21% utilizatori la nivel mondial, fiind al treilea cel mai popular browser.[11][12][13][14] Statisticile Mozilla arat\u0103 c\u0103 Firefox este folosit de peste 450 de milioane de persoane.[15] Browserul se bucur\u0103 de succes \u00een Indonezia, Germania \u0219i Polonia, unde este cel mai utilizat browser, av\u00e2nd o cot\u0103 de pia\u021b\u0103 de 57%,[16] 45%,[17] respectiv 44%.",
+        "question": "Ce indica staticile efectuate la jumatatea anului 2013?",
+        "answers": {
+            "text": [
+                "Conform datelor din luna iulie a anului 2013, Firefox avea \u00eentre 16 \u0219i 21% utilizatori la nivel mondial, fiind al treilea cel mai popular browser.[11][12][13][14] Statisticile Mozilla arat\u0103 c\u0103 Firefox este folosit de peste 450 de milioane de persoane.",
+                "Conform datelor din luna iulie a anului 2013, Firefox avea \u00eentre 16 \u0219i 21% utilizatori la nivel mondial"
+            ],
+            "answer_start": [
+                "0",
+                0
+            ]
+        }
+    },
+    {
+        "id": "UC51W6516",
+        "context": "Modulele electronice lucreaz\u0103 dup\u0103 principiul \u201eIPO\u201d, (\u00een englez\u0103 Input-Process-Output, \u201eintroducere-prelucrare-debitare\u201d). Pentru \u00eenregistrarea valoriilor sunt disponibili senzorii care stabilesc o caracteristic\u0103 fizic\u0103, cum ar fi viteza, presiunea, temperatura, etc. Aceast\u0103 valoare este comparat\u0103 sau calculat\u0103 cu o valoare memorat\u0103 \u00een ECU.",
+        "question": "In ce consta principiul IPO in baza caruia functioneaza modulele electronice?",
+        "answers": {
+            "text": [
+                "(\u00een englez\u0103 Input-Process-Output, \u201eintroducere-prelucrare-debitare\u201d",
+                "Input-Process-Output"
+            ],
+            "answer_start": [
+                "53",
+                65
+            ]
+        }
+    },
+    {
+        "id": "RM65M3163",
+        "context": "Termenul este uneori folosit sinonim cu firmware. Spre deosebire de aplica\u021bia software, software-ul \u00eencorporat are cerin\u021be \u0219i capabilit\u0103\u021bi hardware fixe, iar ad\u0103ugarea de hardware sau software de la o parte ter\u021b\u0103 este strict controlat\u0103.O caracteristic\u0103 important\u0103 este aceea c\u0103 nu toate func\u021biile software-ului \u00eencorporat sunt sau nu sunt ini\u021biate/controlate prin intermediul unei interfe\u021be umane, ci prin interfe\u021bele dispozitivelor.",
+        "question": "Prin ce se deosebeste software-ul incorporat de o aplicatie software?",
+        "answers": {
+            "text": [
+                "Spre deosebire de aplica\u021bia software, software-ul \u00eencorporat are cerin\u021be \u0219i capabilit\u0103\u021bi hardware fixe, iar ad\u0103ugarea de hardware sau software de la o parte ter\u021b\u0103 este strict controlat\u0103.",
+                "Spre deosebire de aplica\u021bia software, software-ul \u00eencorporat are cerin\u021be \u0219i capabilit\u0103\u021bi hardware fixe"
+            ],
+            "answer_start": [
+                "50",
+                50
+            ]
+        }
+    },
+    {
+        "id": "SI15E4020",
+        "context": "Spre deosebire de un sistem de operare desktop, sistemul de operare \u00eencorporat nu \u00eencarc\u0103 \u0219i execut\u0103 aplica\u021bii, ci execut\u0103 o singur\u0103 aplica\u021bie pentru care a fost proiectat. Sistemele multitasking (cazul sistemelor de operare pentru PDA) ofer\u0103 \u00een schimb multe dintre fuctionalit\u0103\u021bile sistemelor de operare pentru calculatoarele personale.",
+        "question": "Prin ce se deosesbeste un software inglobat de un sistem de operare desktop?",
+        "answers": {
+            "text": [
+                "Spre deosebire de un sistem de operare desktop, sistemul de operare \u00eencorporat nu \u00eencarc\u0103 \u0219i execut\u0103 aplica\u021bii, ci execut\u0103 o singur\u0103 aplica\u021bie pentru care a fost proiectat.",
+                "Spre deosebire de un sistem de operare desktop, sistemul de operare \u00eencorporat nu \u00eencarc\u0103 \u0219i execut\u0103 aplica\u021bii"
+            ],
+            "answer_start": [
+                "0",
+                0
+            ]
+        }
+    },
+    {
+        "id": "IU13B9586",
+        "context": "Porturile seriale pot utiliza dou\u0103 tipuri de conectori: conectorul DB-25 \u0219i conectorul DB-9. Conectorul DB-25 cu 25 de pini a fost utilizat la calculatoarele din genera\u021biile anterioare. La calculatoarele mai noi pentru a se reduce spa\u021biul ocupat de conector, a fost \u00eenlocuit cu un conector de dimensiuni mai reduse, conectorul cu 9 pini DB-9.",
+        "question": "Cate tipuri de conectori utilizeaza porturile seriale?",
+        "answers": {
+            "text": [
+                "Porturile seriale pot utiliza dou\u0103 tipuri de conectori: conectorul DB-25 \u0219i conectorul DB-9.",
+                "Porturile seriale pot utiliza dou\u0103 tipuri de conectori"
+            ],
+            "answer_start": [
+                "0",
+                0
+            ]
+        }
+    },
+    {
+        "id": "UG24K2793",
+        "context": "\u00cen ISDN exist\u0103 dou\u0103 tipuri de canale: B (de la \"Bearer\") \u0219i D (de la \"Delta\"). Canalele B sunt folosite pentru transmisiile de date (pot include \u0219i voce). Canalele D sunt folosite pentru semnalizare \u0219i control (dar nu este exclus s\u0103 fie folosite \u0219i pentru date).",
+        "question": "Cate tipuri de canale exista in protocolul ISDN?",
+        "answers": {
+            "text": [
+                "\u00cen ISDN exist\u0103 dou\u0103 tipuri de canale: B (de la \"Bearer\") \u0219i D (de la \"Delta\").",
+                "\u00cen ISDN exist\u0103 dou\u0103 tipuri de canale"
+            ],
+            "answer_start": [
+                "0",
+                0
+            ]
+        }
+    },
+    {
+        "id": "VT81A9157",
+        "context": "Printre avantajele publicit\u0103\u021bii online se num\u0103r\u0103 \u021bintirea (targetarea) mai bun\u0103 (ore, zone geografice, num\u0103r de afi\u0219\u0103ri pe uitilizator) a clientelei dorite, posibilitatea de a oferi informa\u021bii mai multe (prin bannere expandabile sau prin atragerea vizitatorului interesat c\u0103tre o pagin\u0103 web cu mai multe informa\u021bii) \u0219i posibilitatea de a interac\u021biona dinamic cu poten\u021bialul client. Cele mai vestite platforme de publicitate online sunt Google AdWords \u0219i Microsoft AdCenter (Bing Ads).",
+        "question": "Care sunt cele mai renumite platforme de publicitate online?",
+        "answers": {
+            "text": [
+                "Cele mai vestite platforme de publicitate online sunt Google AdWords \u0219i Microsoft AdCenter (Bing Ads).",
+                "Cele mai vestite platforme de publicitate online sunt Google AdWords \u0219i Microsoft AdCenter"
+            ],
+            "answer_start": [
+                "382",
+                382
+            ]
+        }
+    },
+    {
+        "id": "ZZ44K5561",
+        "context": "Sistemul Electronic de Pl\u0103\u021bi (SEP) din Rom\u00e2nia este un sistem a c\u0103rui componente sunt ReGIS (sistemul cu decontare pe baz\u0103 brut\u0103 \u00een timp real), SENT (casa de compensare automat\u0103) \u0219i SaFIR (sistemul de depozitare \u0219i decontare a opera\u021biunilor cu titluri de stat)[1]. ReGIS este administrat de Banca Na\u021bional\u0103 a Rom\u00e2niei (BNR) \u0219i a devenit opera\u021bional\u0103 din 8 aprilie 2005, SENT este administrat de Transfond \u0219i e opera\u021bional din 13 mai 2005, iar SaFIR e administrat de BNR \u0219i e opera\u021bional din 3 octombrie 2005",
+        "question": "Cine administreaza componente SENT a Sistemului Elecetronic de Plati din Romania?",
+        "answers": {
+            "text": [
+                "SENT este administrat de Transfond",
+                "Transfond"
+            ],
+            "answer_start": [
+                "370",
+                395
+            ]
+        }
+    },
+    {
+        "id": "IG21L5853",
+        "context": "Oglinzile parabolice sunt construite cu dou\u0103 grade de libertate put\u00e2nd urm\u0103ri pozi\u021bia soarelui pe cer. Ele sunt montate pe un stativ \u0219i concentreaz\u0103 razele solare \u00eentr-un punct focal propriu fiec\u0103rei oglinzi unde este montat un receptor de energie termic\u0103. Acest mod de construc\u021bie este foarte compact. Oglinzile sunt fabricate cu un diametru cuprins \u00eentre 3 \u0219i 25m rezul\u00e2nd o putere instalat\u0103 de p\u00e2n\u0103 la 50\u00a0kW pe modul. La instala\u021biile de acest tip receptorul este conectat la un\u00a0motor Stirling\u00a0care transform\u0103 energia termic\u0103 direct \u00een emergie mecanic\u0103 put\u00e2nd ac\u021biona un generator electric. Aceste instala\u021bii ating un randament \u00eenalt \u00een transformarea energiei solare \u00een energie electric\u0103 (peste 30%). Modularitatea acestor instala\u021bii permite at\u00e2t utilizarea lor \u00een locuri izolate sau independente c\u00e2t \u0219i conectarea mai multora form\u00e2nd o central\u0103 virtual\u0103 \u00een cadrul\u00a0gener\u0103rii distribuite\u00a0a energiei electrice. O solu\u021bie mai rar\u0103 o constituie parcurile(fermele) de oglinzi parabolice. \u00cen punctual focal comun tuturor oglinzilor se afl\u0103 o suprafa\u021b\u0103 absorbant\u0103 cu ajutorul c\u0103reia este \u00eenc\u0103lzit un agent termic utilizat \u00een continuare pentru generare de aburi. Conectarea \u00een grup a mai multor oglinzi parabolice constituie o abordare mai pu\u021bin economic\u0103 dec\u00e2t centralele cu jgheaburi parabolice sau cele cu turn solar.",
+        "question": "Cum sunt construite oglinzile parabolice?",
+        "answers": {
+            "text": [
+                "Cu dou\u0103 grade de libertate put\u00e2nd urm\u0103ri pozi\u021bia soarelui pe cer.",
+                "Oglinzile parabolice sunt construite cu dou\u0103 grade de libertate put\u00e2nd urm\u0103ri pozi\u021bia soarelui pe cer"
+            ],
+            "answer_start": [
+                "37",
+                0
+            ]
+        }
+    },
+    {
+        "id": "MN91Y4753",
+        "context": "Telefon mobil Samsung Galaxy Note 20 Ultra, Dual SIM, 512GB, 12GB RAM, 5G, Mystic Bronze\u00a0\u00a0Acesta este Galaxy Note20 Ultra. Primul care a imbinat un instrument de scris cu un telefon, Note ti-a pus o lume cu totul noua in buzunar. Pe masura ce ne confruntam cu o noua normalitate, viata cere un nou tip de dispozitiv. Noul Galaxy Note nu este un smartphone obisnuit, ci o suita de calculatoare in buzunarul tau. Acesta este nivelul urmator al jocurilor pe mobil. Aceasta este o camera de nivel profesional.",
+        "question": "Ce este Telefon mobil Samsung Galaxy Note 20 Ultra, Dual SIM, 512GB, 12GB RAM, 5G, Mystic Bronze?",
+        "answers": {
+            "text": [
+                "Este Galaxy Note20 Ultra",
+                "Galaxy Note20 Ultra"
+            ],
+            "answer_start": [
+                "97",
+                102
+            ]
+        }
+    },
+    {
+        "id": "PL63P6481",
+        "context": "Telefon mobil Samsung Galaxy A51, Dual SIM, 128GB, 4GB RAM, 4G, Prism Blue\u00a0\u00a0Vezi intreaga priveliste cu Infinity-O Display. Optimizeaza simetria vizuala cu afisajul Infinity-O al Galaxy A51. Acum te poti juca, viziona, naviga si efectua mai multe activitati in acelasi timp, fara intrerupere, pe un ecran larg de 6,5\" FHD+, totul alimentat de tehnologia Super AMOLED. Bucura-te de o experienta extinsa pe un spatiu de ecran maximizat.\u00a0\u00a0",
+        "question": "Cu ce vezi intreaga priveliste la Telefon mobil Samsung Galaxy A51?",
+        "answers": {
+            "text": [
+                "cu Infinity-O Display",
+                "Vezi intreaga priveliste cu Infinity-O Display"
+            ],
+            "answer_start": [
+                "101",
+                76
+            ]
+        }
+    },
+    {
+        "id": "MC60I1345",
+        "context": "Telefon mobil Xiaom Redmi Note 9 Pro, Dual SIM, 128GB, 6GB RAM, 4G, Interstellar Grey\u00a0\u00a0Procesor Qualcomm Snapdragon 720G \u00a0Camera Quad cu detalii briliante Camera principala de 64MP surprinde clar momentele preferate, iar lentilele cu unghi larg, lentila macro si senzorul de adancime va vor asigura ca veti obtine cele mai bune rezultate, indiferent de scena pe care doriti sa o pozati.\u00a0\u00a0Mod de noapte\u00a0\u00a0Camera principala de 64 MPRedmi Note 9 Pro va ajuta sa surprindeti toate acele momente pretioase.",
+        "question": "Ce procesor are Telefon mobil Xiaom Redmi Note 9 Pro?",
+        "answers": {
+            "text": [
+                "Procesor Qualcomm Snapdragon 720G",
+                "Qualcomm Snapdragon 720G"
+            ],
+            "answer_start": [
+                "87",
+                96
+            ]
+        }
+    },
+    {
+        "id": "VB31J3011",
+        "context": "Telefon mobil Apple iPhone 11, 128GB, Black\u00a0\u00a0Doza perfecta de orice Sistem nou cu doua camere. Baterie pentru toata ziua. Cea mai rezistenta sticla folosita\u00a0 vreodata intr-un smartphone. Cel mai rapid procesor Apple din toate timpurile.\u00a0Design -\u00a0Pentru o zi minunata\u00a0Sase noi culori superbe. Ecran pe tot afisajul LCD Liquid Retina de 6.1 inchi. Rezistenta la apa pentru adancimi de pana la 2 metri timp de 30 de minute.",
+        "question": "Cum este procesorul Apple al Telefonului mobil Apple iPhone 11?",
+        "answers": {
+            "text": [
+                "Cel mai rapid procesor Apple din toate timpurile.",
+                "Cel mai rapid procesor Apple"
+            ],
+            "answer_start": [
+                "187",
+                187
+            ]
+        }
+    },
+    {
+        "id": "TQ54N1353",
+        "context": "Telefon mobil Xiaomi Redmi Note 8 Pro, Dual SIM, 128GB, 6GB RAM, 4G, Forest Green\u00a0\u00a0Ofera fotografii de inalta rezolutie Camera de inalta rezolutie 64MP. Suporta inregistrare video 4K, inregistrare video 960fps in slow motion. Rezolutie fotografie de pana la 8K.\u00a0Captureaza detaliile cu lentilele macro Obiectiv macro de aproape 2 cm.\u00a0\u00a01.3 times wider visionUnghi larg de 120 \u00b0 care corecteaza distorsiunea. ",
+        "question": "Ce rezolutie fotografie are Camera de inalta rezolutie?",
+        "answers": {
+            "text": [
+                "de pana la 8K",
+                "8K"
+            ],
+            "answer_start": [
+                "247",
+                258
+            ]
+        }
+    },
+    {
+        "id": "AX12T8818",
+        "context": "Telefon mobil Samsung Galaxy M21, Dual SIM, 64GB, 4G, Black\u00a0Infinity-U Display dispune de mai mult ecran pentru mai multa placere Ecranul extensiv de 6.4 inci Infinity-U de la Galaxy M21 iti permite sa vezi mai mult din ceea ce-ti place. Tehnologia Super AMOLED FHD + ofera detalii vibrante pentru o experienta de vizionare cuprinzatoare, indiferent daca vizionezi filme, joci jocurile tale favorite sau faci multi-tasking.\u00a0Corpul eficient al Galaxy M21 este creat pentru a se potrivi confortabil in mana ta.",
+        "question": "Ce ofera Tehnologia Super AMOLED FHD +  ?",
+        "answers": {
+            "text": [
+                "detalii vibrante",
+                "Tehnologia Super AMOLED FHD + ofera detalii vibrante pentru o experienta de vizionare cuprinzatoare"
+            ],
+            "answer_start": [
+                "274",
+                238
+            ]
+        }
+    },
+    {
+        "id": "IE61M2335",
+        "context": "Telefon mobil Samsung Galaxy A51, Dual SIM, 128GB, 4GB RAM, 4G, Prism Silver\u00a0\u00a0Vezi intreaga priveliste cu Infinity-O DisplayOptimizeaza simetria vizuala cu afisajul Infinity-O al Galaxy A51. Acum te poti juca, viziona, naviga si efectua mai multe activitati in acelasi timp, fara intrerupere, pe un ecran larg de 6,5\" FHD+, totul alimentat de tehnologia Super AMOLED. Bucura-te de o experienta extinsa pe un spatiu de ecran maximizat.\u00a0\u00a0",
+        "question": "Cu ce Vezi intreaga priveliste",
+        "answers": {
+            "text": [
+                "cu Infinity-O Display",
+                "Vezi intreaga priveliste cu Infinity-O Display"
+            ],
+            "answer_start": [
+                "103",
+                78
+            ]
+        }
+    },
+    {
+        "id": "YT55C9684",
+        "context": "Telefon mobil Samsung Galaxy S20 Ultra, Dual SIM, 128GB, 12GB RAM, 5G, Cosmic Black\u00a0\u00a0Telefonul care va revolutiona fotografia Descopera Galaxy S20, S20+ si S20 Ultra. Cu video 8K schimba modul in care faci atat inregistrari video, cat si fotografiile\u2014 si 5G care revolutioneaza distribuirea continutului. Daca adaugi securitatea Samsung Knox, bateria inteligenta, procesorul puternic si spatiul masiv de stocare \u2014 dispozitivele din seria Galaxy S20 iti dezvaluie o noua era a telefoniei mobile.",
+        "question": "Cine schimba modul in care faci atat inregistrari video, cat si fotografiile?",
+        "answers": {
+            "text": [
+                "video 8K",
+                "Samsung"
+            ],
+            "answer_start": [
+                "170",
+                14
+            ]
+        }
+    },
+    {
+        "id": "CC24Z7013",
+        "context": "Telefon mobil Samsung Galaxy S20 Ultra, Dual SIM, 128GB, 12GB RAM, 5G, Cosmic Black\u00a0\u00a0Telefonul care va revolutiona fotografia Descopera Galaxy S20, S20+ si S20 Ultra. Cu video 8K schimba modul in care faci atat inregistrari video, cat si fotografiile\u2014 si 5G care revolutioneaza distribuirea continutului. Daca adaugi securitatea Samsung Knox, bateria inteligenta, procesorul puternic si spatiul masiv de stocare \u2014 dispozitivele din seria Galaxy S20 iti dezvaluie o noua era a telefoniei mobile.",
+        "question": "Cine revolutioneaza distribuirea continutului?",
+        "answers": {
+            "text": [
+                "5G ",
+                "Samsung Knox"
+            ],
+            "answer_start": [
+                "255",
+                329
+            ]
+        }
+    },
+    {
+        "id": "XJ33E7599",
+        "context": "Telefon mobil Samsung Galaxy A51, Dual SIM, 128GB, 4GB RAM, 4G, Prism White\u00a0\u00a0Vezi intreaga priveliste cu Infinity-O Display Optimizeaza simetria vizuala cu afisajul Infinity-O al Galaxy A51. Acum te poti juca, viziona, naviga si efectua mai multe activitati in acelasi timp, fara intrerupere, pe un ecran larg de 6,5\" FHD+, totul alimentat de tehnologia Super AMOLED. Bucura-te de o experienta extinsa pe un spatiu de ecran maximizat.\u00a0",
+        "question": "Cu ce Optimizeaza simetria vizuala?",
+        "answers": {
+            "text": [
+                "cu afisajul Infinity-O al Galaxy A51",
+                "Optimizeaza simetria vizuala cu afisajul Infinity-O al Galaxy A51"
+            ],
+            "answer_start": [
+                "153",
+                124
+            ]
+        }
+    },
+    {
+        "id": "DF35E1850",
+        "context": "Telefon mobil Huawei Mate XS, Dual SIM, 512GB, 8GB RAM, 5G, Interstellar Blue\u00a0\u00a0Smartphone-urile P40 Pro, P40, P40 lite, P40 lite E, Mate30 Pro, MateXS sunt echipate cu Huawei Mobile Services si AppGallery ca magazin oficial de aplicatii. Acestea folosesc in continuare Android ca sistem de operare si EMUI 10 dar nu sunt livrate cu PlayStore sau alte aplicatii Google preinstalate. Ecosistemul Huawei este in continua crestere de la o saptamana la alta.",
+        "question": "Cine sunt echipate cu Huawei Mobile Services si AppGallery ?",
+        "answers": {
+            "text": [
+                "Smartphone-urile P40 Pro, P40, P40 lite, P40 lite E, Mate30 Pro, MateXS",
+                "Smartphone-urile P40 Pro, P40, P40 lite, P40 lite E, Mate30 Pro, MateXS sunt echipate cu Huawei Mobile Services si AppGallery"
+            ],
+            "answer_start": [
+                "79",
+                79
+            ]
+        }
+    },
+    {
+        "id": "HG94Y7577",
+        "context": "Telefon mobil Xiaomi Redmi Note 9, Dual SIM, 128GB, 4G, Midnight Grey\u00a0\u00a0Procesor puternic, performante imbunatatite Redmi Note 9 este echipat cu un procesor octa-core de inalta performanta, cu o frecventa de maxim 2.0GHz, o frecventa GPU de 1000MHz, pentru performante imbunatatite pentru a va oferi o experienta de joc perfecta.\u00a0\u00a0Materie masiva, putere de lunga durataCu o baterie de 5020 mAh, va puteti bucura de o putere care dureaza. Asociat cu incarcarea rapida de 18W, puteti alimenta dispozitivul in cel mai scurt timp.",
+        "question": "Cu ce este echipat Redmi Note 9?",
+        "answers": {
+            "text": [
+                "cu un procesor octa-core de inalta performanta",
+                "Redmi Note 9 este echipat cu un procesor octa-core"
+            ],
+            "answer_start": [
+                "141",
+                115
+            ]
+        }
+    },
+    {
+        "id": "GT51C7526",
+        "context": "Telefon mobil Samsung Galaxy S10, Dual SIM, 128GB, 8GB RAM, 4G, Prism Blue\u00a0\u00a0Afisajul eye comfort poate ajusta luminozitatea, pentru o vizualizare mai buna. Dynamic AMOLED reduce lumina albastra deranjanta cu 42%, fara a schimba culoarea elementelor de pe ecran. Poti sa vezi filme sau sa te joci pana noaptea tarziu fara a te deranja la ochi, pentru a avea apoi un somn linistitor.\u00a0\u00a0Nu trebuie decat sa atingi ecranul pentru a-l debloca. ",
+        "question": "Cu cat reduce Dynamic AMOLED lumina albastra deranjanta?",
+        "answers": {
+            "text": [
+                "cu 42%",
+                "42%"
+            ],
+            "answer_start": [
+                "205",
+                208
+            ]
+        }
+    },
+    {
+        "id": "MK78P1081",
+        "context": "Telefon mobil Samsung Galaxy Note 20 Ultra, Dual SIM, 256GB, 12GB RAM, 5G, Mystic Bronze. Fiecare Galaxy Note20 Ultra este completat de un S Pen asortat la culoarea telefonului.\u00a0Doua dimensiuni, astfel incat sa poti alege un ecran mare sau chiar mai mare Ambele modele sunt concepute pentru un nivel de sofisticare care devine incredibil de confortabil in mana ta. Alege ecranul de 6.7\u201d pe Galaxy Note20 sau ecranul de 6.9\u201d pe Galaxy Note20 Ultra. Oricare dimensiune iti ofera un spatiu larg pentru lucru si un ecran masiv pentru joc.",
+        "question": "Cu ce este completat Fiecare Galaxy Note20 Ultra?",
+        "answers": {
+            "text": [
+                "de un S Pen",
+                "Fiecare Galaxy Note20 Ultra este completat de un S Pen"
+            ],
+            "answer_start": [
+                "133",
+                90
+            ]
+        }
+    },
+    {
+        "id": "ZU94U1792",
+        "context": "Telefon mobil Samsung Galaxy S20 Ultra, Dual SIM, 128GB, 12GB RAM, 5G, Cloud White\u00a0Rezolutia de 108 MP iti permite sa apropii imaginea oricat ai nevoie.\u00a0\u00a0Mult mai performant decat modele din categoria cu 12 megapixeli, Galaxy S20 Ultra iti ofera milioane de pixeli in plus in fiecare fotografie. Ceea ce inseamna ca, pentru prima oara, poti apropia imaginile pentru a vedea detalii pe care nu le-ai observat pana acum. Mareste imaginea de 100 de ori pentru a observa cadre pe care nici nu le-ai observat pana acum.\u00a0\u00a0",
+        "question": "Care este Rezolutia care  iti permite sa apropii imaginea oricat ai nevoie?",
+        "answers": {
+            "text": [
+                "108 MP",
+                "Rezolutia de 108 MP"
+            ],
+            "answer_start": [
+                "96",
+                83
+            ]
+        }
+    }
+]

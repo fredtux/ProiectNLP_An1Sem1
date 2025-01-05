@@ -1,0 +1,15 @@
+[
+    {
+        "id": "MQ47XO4546",
+        "context": "Un studiu realizat impreuna cu Centrul CDB de la Harvard Medical School a initiat un program avansat de monitorizare a fiecarui ciclu de somn. HUAWEI TruSleep\u21222.0 identifica problemele frecvente legate de somn si ofera peste 200 de potentiale sugestii pentru a va ajuta sa dormiti mai bine.",
+        "question": "Al\u0103turi de cine a fost creat programul de monitorizare a ritmului cardiac?",
+        "answers": {
+            "text": [
+                "Centrul CDB de la Harvard Medical School "
+            ],
+            "answer_start": [
+                "32"
+            ]
+        }
+    }
+]
