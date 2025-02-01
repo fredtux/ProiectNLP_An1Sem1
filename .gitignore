@@ -2,6 +2,7 @@ venv
 log/*
 */results/*
 !*/results/images
+!*/results/plots*
 !*.json
 !README.md
 *.zip
